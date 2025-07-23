@@ -85,7 +85,14 @@ output = {
     "en": news_en
 }
 
-with open("news.json", "w", encoding="utf-8") as f:
-    json.dump(output, f, ensure_ascii=False, indent=2)
+import datetime
+
+with open('news.json', 'w', encoding='utf-8') as f:
+    json.dump({
+        "updated_at": datetime.datetime.now().strftime('%Y-%m-%d %H:%M'),
+        "zh": zh_news,
+        "en": en_news
+    }, f, ensure_ascii=False, indent=2)
+
 
 print("✅ 已写入 news.json，中文:", len(news_zh), "条，英文:", len(news_en), "条")
