@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <title>AI 科技头条速览</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100">
+  <div class="max-w-6xl mx-auto p-6">
+    <h1 class="text-3xl font-bold mb-2">🧠 AI 科技头条速览</h1>
+    <p id="update-time" class="text-sm text-gray-500 mb-6">⏱️ 加载中...</p>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div>
+        <h2 class="text-xl font-semibold mb-4">📌 中文快讯</h2>
+        <div id="zh-news"></div>
+      </div>
+      <div>
+        <h2 class="text-xl font-semibold mb-4">🌍 English News</h2>
+        <div id="en-news"></div>
+      </div>
+    </div>
+  </div>
+  <script>
+    fetch('news.json')
+      .then(res => res.json())
+      .then(data => {
+        document.getElementById('update-time').textContent = `⏱️ 最新更新时间：${data.updated_at}`;
+        ['zh', 'en'].forEach(lang => {
+          const container = document.getElementById(`${lang}-news`);
+          data[lang].forEach(news => {
+            const el = document.createElement('div');
+            el.className = 'mb-4 p-4 border rounded-lg shadow bg-white';
+            el.innerHTML = `
+              <h3 class="font-semibold text-lg mb-1">【${news.title}】</h3>
+              <p class="text-sm mb-1">摘要：${news.summary}</p>
+              <a href="${news.link}" target="_blank" class="text-blue-500 underline">查看原文</a>
+            `;
+            container.appendChild(el);
+          });
+        });
+      });
+  </script>
+</body>
+</html>
