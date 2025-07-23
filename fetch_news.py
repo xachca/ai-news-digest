@@ -95,3 +95,7 @@ with open('news.json', 'w', encoding='utf-8') as f:
 
 
 print("✅ 已写入 news.json，中文:", len(news_zh), "条，英文:", len(news_en), "条")
+
+import sys
+sys.exit(0)
+
