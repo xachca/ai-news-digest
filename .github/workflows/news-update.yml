@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # ✅ 允许自动推送更改
+  contents: write  
 
 jobs:
   update-news:
