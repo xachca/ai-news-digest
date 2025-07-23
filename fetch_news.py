@@ -4,6 +4,7 @@ import json
 import os
 import time
 import requests
+import datetime
 
 def summarize(text):
     print("🚀 正在生成摘要...")
@@ -84,8 +85,6 @@ output = {
     "zh": news_zh,
     "en": news_en
 }
-
-import datetime
 
 with open('news.json', 'w', encoding='utf-8') as f:
     json.dump({
