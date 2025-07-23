@@ -1,1 +1,31 @@
-{"updated_at": "", "zh": [], "en": []}
+{
+  "updated_at": "2025-07-23T07:34:39",
+  "zh": [],
+  "en": [
+    {
+      "title": "Gupshup raises $60M in equity and debt, leaves unicorn status hanging",
+      "summary": "Gupshup secured $60M in equity and debt funding, four years after becoming a unicorn, but its current valuation remains undisclosed, leaving its unicorn status uncertain. (27 words)",
+      "link": "https://techcrunch.com/2025/07/22/gupshup-raises-60m-in-equity-and-debt-leaves-unicorn-status-hanging/"
+    },
+    {
+      "title": "PayPal taps wallets from China and India to make cross-border payments easier for 2 billion people",
+      "summary": "PayPal is collaborating with fintech firms to enable seamless cross-border payments for 2 billion users by linking digital wallets from China, India, and other regions, simplifying international transactions. (49 words)",
+      "link": "https://techcrunch.com/2025/07/22/paypal-announces-integration-with-international-wallets-for-easier-cross-border-transactions/"
+    },
+    {
+      "title": "Amazon acquires Bee, the AI wearable that records everything you say",
+      "summary": "Amazon bought AI wearables startup Bee, known for its bracelet and Apple Watch app that records daily conversations to serve as a personal AI assistant. (29 words)",
+      "link": "https://techcrunch.com/2025/07/22/amazon-acquires-bee-the-ai-wearable-that-records-everything-you-say/"
+    },
+    {
+      "title": "OpenAI agreed to pay Oracle $30B a year for data center services",
+      "summary": "OpenAI will pay Oracle $30B annually for data center services, confirming it as the unnamed customer in Oracle's recent deal disclosure. (20 words)",
+      "link": "https://techcrunch.com/2025/07/22/openai-agreed-to-pay-oracle-30b-a-year-for-data-center-services/"
+    },
+    {
+      "title": "iOS 26 beta 4 arrives, with Liquid Glass tweaks and AI news summaries",
+      "summary": "Apple released iOS 26 beta 4 for developers, introducing Liquid Glass refinements and AI-powered notification summaries. A public beta is likely coming soon. (49 words)",
+      "link": "https://techcrunch.com/2025/07/22/ios-26-beta-4-arrives-with-liquid-glass-tweaks-and-ai-news-summaries/"
+    }
+  ]
+}
