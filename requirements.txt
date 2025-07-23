@@ -1,0 +1,3 @@
+feedparser
+langdetect
+requests
