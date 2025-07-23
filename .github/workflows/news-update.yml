@@ -6,6 +6,9 @@ on:
     - cron: '50 9 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write  # ✅ 允许自动推送更改
+
 jobs:
   update-news:
     runs-on: ubuntu-latest
