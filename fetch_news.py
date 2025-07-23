@@ -90,7 +90,7 @@ output = {
 try:
     with open('news.json', 'w', encoding='utf-8') as f:
         json.dump({
-            "updated_at": datetime.datetime.now().strftime('%Y年%m月%d日 %H:%M'),
+            "updated_at": (datetime.datetime.now(datetime.timezone.utc) + datetime.timedelta(hours=8)).strftime('%Y年%m月%d日 %H:%M'),
             "zh": news_zh,
             "en": news_en
         }, f, ensure_ascii=False, indent=2)
