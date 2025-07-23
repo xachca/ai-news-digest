@@ -87,15 +87,16 @@ output = {
     "en": news_en
 }
 
-with open('news.json', 'w', encoding='utf-8') as f:
-    json.dump({
-        "updated_at": datetime.datetime.now().strftime('%Y-%m-%d %H:%M'),
-        "zh": zh_news,
-        "en": en_news
-    }, f, ensure_ascii=False, indent=2)
-
-
-print("已写入 news.json，中文:", len(news_zh), "条，英文:", len(news_en), "条")
-
-sys.exit(0)
+try:
+    with open('news.json', 'w', encoding='utf-8') as f:
+        json.dump({
+            "updated_at": datetime.datetime.now().strftime('%Y年%m月%d日 %H:%M'),
+            "zh": zh_news,
+            "en": en_news
+        }, f, ensure_ascii=False, indent=2)
+    print("✅ 已写入 news.json")
+    sys.exit(0)
+except Exception as e:
+    print("❌ 写入 news.json 出错：", e)
+    sys.exit(1)
 
