@@ -1,31 +1,206 @@
 {
-  "updated_at": "2025-07-23T07:34:39",
-  "zh": [],
+  "zh": [
+    {
+      "title": "36氪首发 | 「飞享纪」获战略投资，以“AI + 共享无人机”抢占低空文旅赛道",
+      "summary": "共享无人机品牌「飞享纪」获南天数金8000万元战略投资，将用于技术研发及景区点位拓展。",
+      "link": "https://36kr.com/p/3388701500686466?f=rss"
+    },
+    {
+      "title": "36氪East Forward 2025出海全球化创新系列名册｜重磅发布",
+      "summary": "中国企业出海迈向\"智造+本地化\"新阶段，从产品输出转向技术、品牌与内容的价值输出。",
+      "link": "https://36kr.com/p/3391198672636034?f=rss"
+    },
+    {
+      "title": "机场广告，AI乱斗",
+      "summary": "阿里云、百度云等科技巨头斥资过亿抢占机场广告位，打响AI营销战。",
+      "link": "https://36kr.com/p/3391134008904071?f=rss"
+    },
+    {
+      "title": "阿里本周将发布首款自研AI眼镜，加入“百镜大战”丨智能涌现独家",
+      "summary": "阿里将发布首款自研AI眼镜，整合生态功能，进军智能穿戴市场。",
+      "link": "https://36kr.com/p/3391135987730822?f=rss"
+    },
+    {
+      "title": "对话Outer创始人刘佳科：6000美元户外沙发只是开始，模块化庭院才是最终野心｜硬氪专访",
+      "summary": "Outer推出模块化户外空间方案，从高端家具转型庭院开发商，瞄准1800亿美元全球市场。",
+      "link": "https://36kr.com/p/3390866301700231?f=rss"
+    },
+    {
+      "title": "英伟达 GeForce RTX 5090 D v2 显卡有望 8 月 12 日解禁发售",
+      "summary": "英伟达RTX 5090 D v2显卡或于8月12日国内上市，显存缩减至24GB GDDR7，性能接近原版。",
+      "link": "https://www.ithome.com/0/870/172.htm"
+    },
+    {
+      "title": "CounterPoint 洞察三星 Galaxy S25 Ultra 手机物料成本：芯片上涨 21%",
+      "summary": "三星S25 Ultra物料成本涨3.4%，芯片成本飙升21%，主因3nm工艺和自研Oryon架构。",
+      "link": "https://www.ithome.com/0/870/170.htm"
+    },
+    {
+      "title": "12306 工作人员回应高铁可手机扫码反馈调温：夏季原则上控制在 26-28℃",
+      "summary": "高铁推扫码调温服务，乘客可扫码反馈车厢温度，工作人员将根据情况调整至26-28℃标准范围。",
+      "link": "https://www.ithome.com/0/870/168.htm"
+    },
+    {
+      "title": "新能源重卡制造商零一汽车完成 5 亿元 A 轮融资，将推进量产级无人驾驶卡车",
+      "summary": "新能源重卡制造商零一汽车完成5亿元A轮融资，将联合Momenta推进卡车自动驾驶商业化。",
+      "link": "https://www.ithome.com/0/870/104.htm"
+    },
+    {
+      "title": "国产类魂动作游戏《明末：渊虚之羽》获 IGN 中国 9 分：战斗系统 / 场景设计较佳、后期难度较高",
+      "summary": "国产类魂游戏《明末：渊虚之羽》媒体评分解禁，Xbox版88分获最高评价，IGN中国打出9分。",
+      "link": "https://www.ithome.com/0/870/165.htm"
+    },
+    {
+      "title": "再次拔高上限！夸克健康大模型通过12门主任医师考试",
+      "summary": "国内大模型首次突破技术难关，成功完成挑战",
+      "link": "https://www.qbitai.com/2025/07/311746.html"
+    },
+    {
+      "title": "开源Qwen凌晨暴击闭源Claude！刷新AI编程SOTA，支持1M上下文",
+      "summary": "谷歌DeepMind发布最强MoE模型450B，仅激活35B参数性能超越GPT-4",
+      "link": "https://www.qbitai.com/2025/07/311711.html"
+    },
+    {
+      "title": "贾跃亭骗倒美国：新MPV被爆贴牌国产车，1小时订单破万，刚拿到7亿融资就收警告函了",
+      "summary": "乐视电视装车头引热议",
+      "link": "https://www.qbitai.com/2025/07/311614.html"
+    },
+    {
+      "title": "一年破千万美金，一款海外AI创意引擎爆发了",
+      "summary": "AI reshapes influencer marketing with innovative creative strategies.",
+      "link": "https://www.qbitai.com/2025/07/311587.html"
+    },
+    {
+      "title": "机器人高层指挥低层做，“坐标系转移接口”一次演示实现泛化学习 | ICML2025",
+      "summary": "美国东北大学与波士顿动力RAI合作推出AI机器人研究新项目",
+      "link": "https://www.qbitai.com/2025/07/311570.html"
+    },
+    {
+      "title": "搜索新范式！AI Search Paradigm重新定义复杂信息需求的智能搜索范式",
+      "summary": "AI科技新闻助手，为您提供最新科技动态。",
+      "link": "https://www.jiqizhixin.com/articles/2025-07-23-6"
+    },
+    {
+      "title": "再次拔高上限！夸克健康大模型通过12门主任医师考试",
+      "summary": "AI科技新闻助手，为您提供最新科技动态。",
+      "link": "https://www.jiqizhixin.com/articles/2025-07-23-5"
+    },
+    {
+      "title": "Nature丨多国团队开发的综合疾病图谱实现95轮千亿级像素数据分析，揭示肾脏疾病蛋白质空间分布与疾病机制",
+      "summary": "AI科技新闻助手，为您提供最新科技动态。",
+      "link": "https://www.jiqizhixin.com/articles/2025-07-23-4"
+    },
+    {
+      "title": "DeepMind刚拿完IMO金牌，科学家就被Meta挖走了，都是华人大牛",
+      "summary": "AI助手提供科技新闻摘要服务。",
+      "link": "https://www.jiqizhixin.com/articles/2025-07-23-3"
+    },
+    {
+      "title": "刚刚，OpenAI星际之门要建5GW数据中心，马斯克祭出AI基建5年计划",
+      "summary": "AI科技新闻助手，为您提供最新科技动态。",
+      "link": "https://www.jiqizhixin.com/articles/2025-07-23-2"
+    }
+  ],
   "en": [
     {
+      "title": "The Escobar Phone scam saga has finally come to an end",
+      "summary": "前CEO承认诈骗和洗钱罪，曾推广问题折叠手机Escobar Fold。",
+      "link": "https://www.theverge.com/news/711929/escobar-phone-scam-guilty-plea-deal"
+    },
+    {
+      "title": "Rove’s R2-4K dash cam is an extra set of eyes on the road and $48 off at Amazon",
+      "summary": "行车记录仪Rove R2-4K降价至71.99美元，创亚马逊历史新低，助你记录事故真相。",
+      "link": "https://www.theverge.com/tech/711754/rove-r2-4k-dash-cam-deal-sale"
+    },
+    {
+      "title": "Windows 11&#8217;s new update will add a bunch of AI features",
+      "summary": "微软为Win11推出多项AI新功能，包括可扫描屏幕内容的Copilot Vision工具，部分功能为Copilot Plus PC专属。",
+      "link": "https://www.theverge.com/news/711797/windows-11-microsoft-ai-features-copilot-vision-launch"
+    },
+    {
+      "title": "Democrats are desperately trying to revive the click-to-cancel rule",
+      "summary": "美民主党多管齐下推动\"一键取消\"订阅新规，在法院叫停后寻求立法途径恢复FTC提案。",
+      "link": "https://www.theverge.com/politics/711707/click-to-cancel-democrats-ftc"
+    },
+    {
+      "title": "Why I love my little round Dell USB-C mobile adapter",
+      "summary": "Barbara Krasnoff现为The Verge评测编辑，虽曾撰写大量评测，但目前主要负责待办事项类文章的编辑工作。",
+      "link": "https://www.theverge.com/tech/711096/adapter-dell-mobile-adapter-favorites"
+    },
+    {
+      "title": "2025 Aston Martin Vanquish Volante: A-M’s ultimate GT goes topless",
+      "summary": "美国每年仅引进少量V12敞篷车型。",
+      "link": "https://arstechnica.com/cars/2025/07/2025-aston-martin-vanquish-volante-a-ms-ultimate-gt-goes-topless/"
+    },
+    {
+      "title": "Toy company may regret coming for “Sylvanian Drama” TikToker, experts say",
+      "summary": "短视频系列被下架后，TikTok和Instagram平台可能的合法恢复途径",
+      "link": "https://arstechnica.com/tech-policy/2025/07/tiktok-parody-account-sylvanian-drama-may-survive-sponsored-content-lawsuit/"
+    },
+    {
+      "title": "A power utility is reporting suspected pot growers to cops. EFF says that’s illegal.",
+      "summary": "电子前沿基金会称\"大规模监控计划\"违反宪法保护。",
+      "link": "https://arstechnica.com/tech-policy/2025/07/eff-moves-to-stop-power-utility-reporting-suspected-pot-growers-to-cops/"
+    },
+    {
+      "title": "Apple Intelligence news summaries are back, with a big red disclaimer",
+      "summary": "苹果今年早些时候因AI新闻摘要扭曲标题而停用该功能。",
+      "link": "https://arstechnica.com/apple/2025/07/apple-intelligence-news-summaries-are-back-with-a-big-red-disclaimer/"
+    },
+    {
+      "title": "Conspiracy theorists don’t realize they’re on the fringe",
+      "summary": "戈登·彭尼库克称：\"这可能是迄今观察到的最大虚假共识效应之一。\"",
+      "link": "https://arstechnica.com/science/2025/07/conspiracy-theorists-think-their-views-are-mainstream/"
+    },
+    {
+      "title": "Fighting forever chemicals and startup fatigue",
+      "summary": "密歇根初创公司Enspired Solutions由环境毒理学家Denise Kay和化学工程师Meng Wang创立，致力于开发永久清除水中PFAS\"永久化学物\"的技术。",
+      "link": "https://www.technologyreview.com/2025/07/22/1117638/fighting-forever-chemicals-and-startup-fatigue/"
+    },
+    {
+      "title": "The Download: how to melt rocks, and what you need to know about AI",
+      "summary": "初创公司Quaise计划用能量束钻探地热井，革新传统钻井方式。",
+      "link": "https://www.technologyreview.com/2025/07/22/1120562/the-download-how-to-melt-rocks-and-what-you-need-to-know-about-ai/"
+    },
+    {
+      "title": "This startup wants to use beams of energy to drill geothermal wells",
+      "summary": "AI助手观察毫米波钻机融化岩石，产生火花和尘埃。",
+      "link": "https://www.technologyreview.com/2025/07/22/1120545/geothermal-drilling-quaise/"
+    },
+    {
+      "title": "Five things you need to know about AI right now",
+      "summary": "我在SXSW伦敦演讲中分享了\"关于AI需要知道的五件事\"，概述了2025年AI发展的关键趋势。",
+      "link": "https://www.technologyreview.com/2025/07/22/1120556/five-things-to-know-ai/"
+    },
+    {
+      "title": "The Download: how your data is being used to train AI, and why chatbots aren’t doctors",
+      "summary": "AI训练数据集惊现数百万份个人敏感信息",
+      "link": "https://www.technologyreview.com/2025/07/21/1120525/the-download-how-your-data-is-being-used-to-train-ai-and-why-chatbots-arent-doctors/"
+    },
+    {
       "title": "Gupshup raises $60M in equity and debt, leaves unicorn status hanging",
-      "summary": "Gupshup secured $60M in equity and debt funding, four years after becoming a unicorn, but its current valuation remains undisclosed, leaving its unicorn status uncertain. (27 words)",
+      "summary": "Gupshup在成为独角兽四年后，新一轮融资超6000万美元。",
       "link": "https://techcrunch.com/2025/07/22/gupshup-raises-60m-in-equity-and-debt-leaves-unicorn-status-hanging/"
     },
     {
       "title": "PayPal taps wallets from China and India to make cross-border payments easier for 2 billion people",
-      "summary": "PayPal is collaborating with fintech firms to enable seamless cross-border payments for 2 billion users by linking digital wallets from China, India, and other regions, simplifying international transactions. (49 words)",
+      "summary": "PayPal与全球金融科技公司合作，支持跨境跨钱包支付。",
       "link": "https://techcrunch.com/2025/07/22/paypal-announces-integration-with-international-wallets-for-easier-cross-border-transactions/"
     },
     {
+      "title": "Apple alerted Iranians to iPhone spyware attacks, say researchers",
+      "summary": "苹果向多名伊朗用户发送黑客攻击警告，研究人员称伊朗政府可能是幕后黑手。",
+      "link": "https://techcrunch.com/2025/07/22/apple-alerted-iranians-to-iphone-spyware-attacks-say-researchers/"
+    },
+    {
       "title": "Amazon acquires Bee, the AI wearable that records everything you say",
-      "summary": "Amazon bought AI wearables startup Bee, known for its bracelet and Apple Watch app that records daily conversations to serve as a personal AI assistant. (29 words)",
+      "summary": "亚马逊收购AI可穿戴初创公司Bee，其智能手环和Apple Watch应用可记录日常生活并充当AI助手。",
       "link": "https://techcrunch.com/2025/07/22/amazon-acquires-bee-the-ai-wearable-that-records-everything-you-say/"
     },
     {
       "title": "OpenAI agreed to pay Oracle $30B a year for data center services",
-      "summary": "OpenAI will pay Oracle $30B annually for data center services, confirming it as the unnamed customer in Oracle's recent deal disclosure. (20 words)",
+      "summary": "OpenAI是上月甲骨文披露的大额交易客户。",
       "link": "https://techcrunch.com/2025/07/22/openai-agreed-to-pay-oracle-30b-a-year-for-data-center-services/"
-    },
-    {
-      "title": "iOS 26 beta 4 arrives, with Liquid Glass tweaks and AI news summaries",
-      "summary": "Apple released iOS 26 beta 4 for developers, introducing Liquid Glass refinements and AI-powered notification summaries. A public beta is likely coming soon. (49 words)",
-      "link": "https://techcrunch.com/2025/07/22/ios-26-beta-4-arrives-with-liquid-glass-tweaks-and-ai-news-summaries/"
     }
   ]
 }
