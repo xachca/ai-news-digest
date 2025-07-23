@@ -91,8 +91,8 @@ try:
     with open('news.json', 'w', encoding='utf-8') as f:
         json.dump({
             "updated_at": datetime.datetime.now().strftime('%Y年%m月%d日 %H:%M'),
-            "zh": zh_news,
-            "en": en_news
+            "zh": news_zh,
+            "en": news_en
         }, f, ensure_ascii=False, indent=2)
     print("✅ 已写入 news.json")
     sys.exit(0)
