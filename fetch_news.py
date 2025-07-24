@@ -6,7 +6,8 @@ import time
 import requests
 import datetime
 
-def summarize(text):
+
+def summarize(text, max_retries=2):
     print("正在生成摘要...")
     print("原文段落（前100字）：", text[:100])
 
@@ -32,34 +33,36 @@ def summarize(text):
         "temperature": 0.5
     }
 
-    try:
-        response = requests.post(
-            "https://api.deepseek.com/chat/completions",
-            headers=headers,
-            json=data,
-            timeout=15
-        )
+    for attempt in range(max_retries):
+        try:
+            response = requests.post(
+                "https://api.deepseek.com/chat/completions",
+                headers=headers,
+                json=data,
+                timeout=15
+            )
 
-        print("返回状态码：", response.status_code)
+            print("返回状态码：", response.status_code)
 
-        if response.status_code == 200:
-            result = response.json()
-            if "choices" in result and result["choices"]:
-                summary = result["choices"][0]["message"].get("content", "").strip()
-                if summary:
-                    print("✅ 摘要结果：", summary)
-                    return summary
+            if response.status_code == 200:
+                result = response.json()
+                if "choices" in result and result["choices"]:
+                    summary = result["choices"][0]["message"].get("content", "").strip()
+                    if summary:
+                        print("✅ 摘要结果：", summary)
+                        return summary
+                    else:
+                        print("⚠️ choices 为空内容，重试...")
                 else:
-                    print("⚠️ choices 为空内容")
+                    print("⚠️ response 中无有效 choices 字段，重试...")
             else:
-                print("⚠️ response 中无有效 choices 字段")
-        else:
-            print("❌ API 响应非 200")
-
-    except Exception as e:
-        print("请求异常：", str(e))
+                print(f"❌ API 响应非 200：{response.status_code}")
+        except Exception as e:
+            print(f"请求异常（第{attempt + 1}次）：", str(e))
+        time.sleep(2)
 
     return "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。"
+
 
 def fetch_news(feed_urls, lang):
     news = []
@@ -81,6 +84,7 @@ def fetch_news(feed_urls, lang):
         except Exception as e:
             print(f"抓取失败：{url} 错误：{str(e)}")
     return news
+
 
 feeds_zh = [
     "https://36kr.com/feed",
