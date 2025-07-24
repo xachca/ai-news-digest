@@ -8,10 +8,11 @@ import datetime
 
 def summarize(text):
     print("正在生成摘要...")
-    print("原文段落：", text[:100])
+    print("原文段落（前100字）：", text[:100])
+
     api_key = os.getenv("DEEPSEEK_API_KEY")
     if not api_key:
-        print("❌ 未设置 DEEPSEEK_API_KEY 环境变量")
+        print("未设置 DEEPSEEK_API_KEY 环境变量")
         return "【错误】缺少 API 密钥"
 
     headers = {
@@ -22,7 +23,10 @@ def summarize(text):
     data = {
         "model": "deepseek-chat",
         "messages": [
-            {"role": "system", "content": "你是一个AI科技新闻助手，请用简体中文（或英文）生成一句不超过100字的摘要"},
+            {
+                "role": "system",
+                "content": "你是一个AI科技新闻助手，请用简体中文或英文生成一句不超过100字的科技新闻摘要。不要重复提示词，不要使用固定格式。"
+            },
             {"role": "user", "content": text}
         ],
         "temperature": 0.5
@@ -35,22 +39,27 @@ def summarize(text):
             json=data,
             timeout=15
         )
+
         print("返回状态码：", response.status_code)
+
         if response.status_code == 200:
             result = response.json()
-            if 'choices' in result and result['choices']:
-                summary = result['choices'][0]['message']['content'].strip()
-                print("摘要结果：", summary)
-                return summary
+            if "choices" in result and result["choices"]:
+                summary = result["choices"][0]["message"].get("content", "").strip()
+                if summary:
+                    print("✅ 摘要结果：", summary)
+                    return summary
+                else:
+                    print("⚠️ choices 为空内容")
             else:
-                print("⚠️ API 返回格式异常：", result)
-                return "【错误】摘要数据格式异常"
+                print("⚠️ response 中无有效 choices 字段")
         else:
-            print("⚠️ API 请求失败，状态码：", response.status_code)
-            return f"【API错误】状态码: {response.status_code}"
+            print("❌ API 响应非 200")
+
     except Exception as e:
-        print("❌ 请求失败：", str(e))
-        return "【错误】生成失败"
+        print("请求异常：", str(e))
+
+    return "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。"
 
 def fetch_news(feed_urls, lang):
     news = []
@@ -70,7 +79,7 @@ def fetch_news(feed_urls, lang):
                     "link": link
                 })
         except Exception as e:
-            print(f"❌ 抓取失败：{url} 错误：{str(e)}")
+            print(f"抓取失败：{url} 错误：{str(e)}")
     return news
 
 feeds_zh = [
@@ -91,6 +100,11 @@ print("开始抓取中文新闻")
 news_zh = fetch_news(feeds_zh, "zh")
 print("开始抓取英文新闻")
 news_en = fetch_news(feeds_en, "en")
+
+output = {
+    "zh": news_zh,
+    "en": news_en
+}
 
 try:
     with open('news.json', 'w', encoding='utf-8') as f:
