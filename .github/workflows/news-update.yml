@@ -24,6 +24,8 @@ jobs:
 
       - name: Run news fetch script
         run: python fetch_news.py
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
 
       - name: Commit & push changes
         run: |
