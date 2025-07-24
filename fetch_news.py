@@ -6,8 +6,7 @@ import time
 import requests
 import datetime
 
-
-def summarize(text, max_retries=2):
+def summarize(text):
     print("正在生成摘要...")
     print("原文段落（前100字）：", text[:100])
 
@@ -26,43 +25,41 @@ def summarize(text, max_retries=2):
         "messages": [
             {
                 "role": "system",
-                "content": "你是一个AI科技新闻助手，请用简体中文或英文生成一句不超过100字的科技新闻摘要。不要重复提示词，不要使用固定格式。"
+                "content": "你是专业的科技新闻编辑，请根据输入内容生成一句不超过100字的独立新闻摘要，避免复用模板内容。"
             },
             {"role": "user", "content": text}
         ],
         "temperature": 0.5
     }
 
-    for attempt in range(max_retries):
-        try:
-            response = requests.post(
-                "https://api.deepseek.com/chat/completions",
-                headers=headers,
-                json=data,
-                timeout=15
-            )
+    try:
+        response = requests.post(
+            "https://api.deepseek.com/chat/completions",
+            headers=headers,
+            json=data,
+            timeout=15
+        )
 
-            print("返回状态码：", response.status_code)
+        print("返回状态码：", response.status_code)
 
-            if response.status_code == 200:
-                result = response.json()
-                if "choices" in result and result["choices"]:
-                    summary = result["choices"][0]["message"].get("content", "").strip()
-                    if summary:
-                        print("✅ 摘要结果：", summary)
-                        return summary
-                    else:
-                        print("⚠️ choices 为空内容，重试...")
+        if response.status_code == 200:
+            result = response.json()
+            if "choices" in result and result["choices"]:
+                summary = result["choices"][0]["message"].get("content", "").strip()
+                if summary:
+                    print("✅ 摘要结果：", summary)
+                    return summary
                 else:
-                    print("⚠️ response 中无有效 choices 字段，重试...")
+                    print("⚠️ choices 为空内容")
             else:
-                print(f"❌ API 响应非 200：{response.status_code}")
-        except Exception as e:
-            print(f"请求异常（第{attempt + 1}次）：", str(e))
-        time.sleep(2)
+                print("⚠️ response 中无有效 choices 字段")
+        else:
+            print("❌ API 响应非 200")
+
+    except Exception as e:
+        print("请求异常：", str(e))
 
     return "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。"
-
 
 def fetch_news(feed_urls, lang):
     news = []
@@ -75,6 +72,8 @@ def fetch_news(feed_urls, lang):
                 title = entry.title
                 link = entry.link
                 content = entry.get("summary", "")
+                if not content or len(content) < 100:
+                    content = entry.get("title", "") + "。" + entry.get("description", "")
                 summary = summarize(content)
                 news.append({
                     "title": title,
@@ -84,7 +83,6 @@ def fetch_news(feed_urls, lang):
         except Exception as e:
             print(f"抓取失败：{url} 错误：{str(e)}")
     return news
-
 
 feeds_zh = [
     "https://36kr.com/feed",
@@ -122,3 +120,4 @@ try:
 except Exception as e:
     print("❌ 写入 news.json 出错：", e)
     sys.exit(1)
+
