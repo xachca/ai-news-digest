@@ -1,59 +1,69 @@
 {
-  "updated_at": "2025年07月31日 18:35",
+  "updated_at": "2025年08月01日 11:14",
   "zh": [
     {
+      "title": "全国产智能体MasterAgent：一句话造专属AI团队，专业协同交付",
+      "summary": "中科大团队研发全球首个L4级智能体母体系统MasterAgent，实现多智能体极速生成与协作，1分钟内可创建专业团队完成复杂任务，已在法律、金融等领域落地应用。",
+      "link": "https://36kr.com/p/3403648679628421?f=rss"
+    },
+    {
+      "title": "8点1氪｜英伟达因H20芯片漏洞后门被约谈；8月起现金买黄金超10万需上报；微软成史上第二家市值破4万亿美元公司",
+      "summary": "国家网信办约谈英伟达公司，要求其就H20芯片安全风险问题提交说明材料，英伟达回应称芯片不存在后门。",
+      "link": "https://36kr.com/p/3403531686579589?f=rss"
+    },
+    {
+      "title": "让机器人拥有智能触觉，「悟通感控」获数千万元融资 | 36氪独家",
+      "summary": "柔性触觉感知科技公司「悟通感控」完成数千万元Pre-A系列融资，其离电式薄膜触觉传感技术突破行业\"不可能三角\"，实现量产并应用于医疗、新能源等领域，获多家头部企业合作。",
+      "link": "https://36kr.com/p/3400812930779271?f=rss"
+    },
+    {
+      "title": "奔驰大电池新车，计划采用吉利插混技术｜36氪独家",
+      "summary": "奔驰拟与吉利合作开发超长续航插混系统，加速本土化布局以应对中国市场激烈竞争，双方正就技术细节进行协商。",
+      "link": "https://36kr.com/p/3389534892589443?f=rss"
+    },
+    {
       "title": "氪星晚报｜转转集团与迪拜机场自贸区签署合作备忘录；亚马逊停止在谷歌旗下电商平台Google Shopping投放广告；Arm CEO：公司正在自研芯片",
-      "summary": "一加2025年上半年手机销量同比增长31%，增幅居行业首位，下半年将推出搭载升级版自研游戏芯片技术的新品。",
+      "summary": "一加手机2025年上半年销量同比增31%，增幅居行业首位，下半年将首发搭载升级版自研\"风驰游戏内核\"技术。",
       "link": "https://36kr.com/p/3402643167660165?f=rss"
     },
     {
-      "title": "把汽车产线搬进光储，行业“另类”华昱欣",
-      "summary": "华昱欣推出无线密码重置专利，解决逆变器密码遗忘难题，并推出All-in-One光储一体机，通过集成光伏、储能和逆变器降低安装成本，其\"车规级\"电池产线和iMesh技术进一步提升了产品安全性和稳定性，以技术优势应对行业价格战。",
-      "link": "https://36kr.com/p/3402620964587653?f=rss"
+      "title": "李斌“剧透”蔚来第三代 ES8 本月举行技术发布会，下月上市",
+      "summary": "蔚来宣布第三代ES8将于本月举行技术发布会，9月NIO Day 2025正式上市，新车搭载900V超充快换平台及旗舰级双电机系统，支持5分钟快充250公里。",
+      "link": "https://www.ithome.com/0/872/287.htm"
     },
     {
-      "title": "融创的“冰雪”，华发还没玩明白",
-      "summary": "华发股份因深圳前海冰雪世界项目7块商业用地被政府收回，预计亏损13.55亿元，该项目曾由融创转让股权并保留回购权，现因未开发被收储，凸显房企逆周期扩张风险。",
-      "link": "https://36kr.com/p/3402607246657672?f=rss"
+      "title": "Canalys 报告 2025Q2 全球手机出货量：三星同比增 7%、苹果降 2%、小米持平、vivo 增 2%、传音降 3%",
+      "summary": "2025年Q2全球智能手机出货量2.889亿台同比持平，三星以20%份额领跑市场，出货量增长7%至5750万台，苹果、小米分列二三位。",
+      "link": "https://www.ithome.com/0/872/285.htm"
     },
     {
-      "title": "敦煌网COO杨青青：全球化重塑时代，协同共创的出海之路 | 2025出海大会",
-      "summary": "敦煌网COO杨青青在2025出海大会上提出，全球化正经历重塑而非退潮，企业需构建协同共赢生态，通过社群经济、AI赋能和本地化运营实现可持续出海，强调\"利他\"模式将成新全球化核心。",
-      "link": "https://36kr.com/p/3398295493773441?f=rss"
+      "title": "特斯拉中国 V4 超级充电桩新增福建、广东等 7 省 15 站投入使用",
+      "summary": "特斯拉V4超充桩新增7省15站投入运营，覆盖福建、广东等地，支持非特斯拉车辆充电并具备防雨防水功能。",
+      "link": "https://www.ithome.com/0/872/281.htm"
     },
     {
-      "title": "原中国航发研发团队创立「汉发长空」，攻坚国产民用中低空航空动力市场，获险峰、协立数千万天使轮投资｜硬氪首发",
-      "summary": "国产航空发动机企业「汉发长空」获数千万元天使轮融资，将推进400千瓦级涡轴/涡桨发动机研发，打破国际巨头垄断，助力低空经济发展。",
-      "link": "https://36kr.com/p/3402529372162176?f=rss"
+      "title": "腾讯客服回应微信提现手续费下降：最低下限改为 0.01 元，7 月 25 日全量更新",
+      "summary": "微信支付调整提现手续费规则，7月25日起单笔服务费最低收取标准从0.1元降至0.01元，超额提现仍按0.1%收费，用户可通过积分兑换免费提现券。",
+      "link": "https://www.ithome.com/0/872/280.htm"
     },
     {
-      "title": "字节 AI 编程工具 Trae 被指涉嫌“偷跑”用户数据，官方回应称尽快优化产品、避免类似误解",
-      "summary": "字节跳动旗下AI开发工具Trae IDE被曝在关闭遥测选项后仍上传用户数据，包括设备信息和使用记录，团队回应称数据采集符合行业规范并将优化透明度机制。",
-      "link": "https://www.ithome.com/0/872/147.htm"
+      "title": "魅族 22 手机开启 0 元新品预约：打造 1.22mm 全球极窄四等白边框，ChinaJoy 猜真机模样",
+      "summary": "魅族22手机开启全平台预约，主打1.22mm全球极窄边框设计，并在ChinaJoy 2025展会上通过四款机模盲猜活动预热新品。",
+      "link": "https://www.ithome.com/0/872/277.htm"
     },
     {
-      "title": "理想回应 i8 重卡对撞测试争议：模拟真实场景、全权委托第三方测试认证",
-      "summary": "理想汽车发布i8纯电SUV重卡碰撞测试视频，车辆在100km/h正面对撞和侧撞测试中表现优异，A/B/C柱无变形，气囊全开，电池安全。测试卡车品牌乘龙随后被网友认出，理想回应称测试由第三方机构完成，卡车为随机采购。",
-      "link": "https://www.ithome.com/0/872/146.htm"
+      "title": "蔚来翻身之战！18万开走大三排SUV，市值一夜大涨58亿",
+      "summary": "蔚来发布18万起售大空间SUV引爆市场，股价单日飙升58亿元，线上线下销售渠道均现火爆抢购场面。",
+      "link": "https://www.qbitai.com/2025/08/316596.html"
     },
     {
-      "title": "英国《在线安全法》出台后，当地成人网站每天新增 500 万次年龄验证",
-      "summary": "英国《在线安全法》实施成人网站年龄验证新规后，每日新增验证次数达500万次，监管机构将对不合规平台展开调查。",
-      "link": "https://www.ithome.com/0/872/145.htm"
-    },
-    {
-      "title": "今年 ChinaJoy，别忘了“星闪”一下",
-      "summary": "2025 ChinaJoy以\"聚·你所爱\"为主题，吸引743家企业参展，聚焦国产游戏崛起与科技融合。华为鸿蒙游戏展区将展示50余款游戏及星闪技术外设，带来低延迟、高稳定性的跨设备游戏体验。中国原生星闪技术展现强劲性能，在游戏、办公及万物互联领域开启无线连接新纪元。",
-      "link": "https://www.ithome.com/0/872/143.htm"
-    },
-    {
-      "title": "Sudokoo 进入中国市场，带来两款玻纤 + LCP 扇叶 30mm 厚高风量高风压风扇",
-      "summary": "PC散热品牌Sudokoo正式进军中国市场，推出采用玻纤+LCP复合材料的MACH120/140两款加厚风扇，具备工业级刚性和6年质保，售价199元起。",
-      "link": "https://www.ithome.com/0/872/142.htm"
+      "title": "WAIC 2025现场直击：看云深处科技如何将具身智能转化为实际生产力",
+      "summary": "云深处科技在WAIC 2025展示具身智能新突破，通过\"连续作业+系统协同\"模式推动智能技术规模化应用落地。",
+      "link": "https://www.qbitai.com/2025/07/316584.html"
     },
     {
       "title": "Robotaxi营收同比增长836.7%，季度营收同比增长60.8% | 文远知行发布Q2财报",
-      "summary": "文远知行Q2财报显示，Robotaxi业务营收同比激增836.7%，推动公司整体营收达1.27亿元，同比增长60.8%。",
+      "summary": "文远知行Q2财报显示，Robotaxi业务营收同比激增836.7%，带动公司总营收达1.27亿元，同比增长60.8%。",
       "link": "https://www.qbitai.com/2025/07/316529.html"
     },
     {
@@ -63,145 +73,135 @@
     },
     {
       "title": "机器人终于能帮人洗衣服了",
-      "summary": "科学家研发新型洗衣机器人，首次实现全自动衣物分类清洗功能。",
+      "summary": "科学家研发新型家务机器人，首次实现自主完成衣物分类、洗涤、晾晒全流程，标志着家庭服务机器人技术取得重大突破。",
       "link": "https://www.qbitai.com/2025/07/316500.html"
     },
     {
-      "title": "奔驰崩了！业绩新低利润暴跌68%，经销商转卖华为了",
-      "summary": "奔驰利润暴跌68%，经销商转投华为，纯电GLC能否扭转颓势？",
-      "link": "https://www.qbitai.com/2025/07/316367.html"
+      "title": "Manus大升级，100多个智能体并发给你做任务",
+      "summary": "AI公司Manus推出重大升级，支持100多个智能体并发处理任务，大幅提升工作效率。",
+      "link": "https://www.jiqizhixin.com/articles/2025-08-01-4"
     },
     {
-      "title": "阿里安全揭示：恶意邮件可致macOS/iOS瞬间瘫痪！畸形证书发现密码库新漏洞",
-      "summary": "阿里安全发现macOS/iOS系统存在高危漏洞，恶意邮件可致设备瘫痪，该漏洞源于密码库证书解析缺陷，已获\"黑客奥斯卡\"Pwnie Awards提名。",
-      "link": "https://www.qbitai.com/2025/07/316366.html"
+      "title": "挖人上瘾的Meta又被员工吐嘈：不帮忙宣传项目，开源只会越来越糟",
+      "summary": "Meta因过度挖角遭员工批评，被指忽视项目宣传导致开源生态恶化。",
+      "link": "https://www.jiqizhixin.com/articles/2025-08-01-3"
+    },
+    {
+      "title": "机器人不只会抓和放！北京大学X银河通用「世界-动作模型」赋能全面泛化的非抓握技能",
+      "summary": "北大与银河通用联合研发\"世界-动作模型\"，突破机器人仅能抓取局限，实现复杂非抓握动作的泛化操作能力。",
+      "link": "https://www.jiqizhixin.com/articles/2025-08-01"
     },
     {
       "title": "ACL'25最佳论文独家解读：大模型有「抗改造」基因，现有后训练范式失灵预警",
-      "summary": "大模型后训练研究遇瓶颈：ACL'25最佳论文揭示模型存在固有抗性，传统微调方法面临失效风险。",
+      "summary": "大模型后训练研究揭示\"抗改造\"特性，现有优化方法面临失效风险，引发学界对模型可塑性的重新审视。",
       "link": "https://www.jiqizhixin.com/articles/2025-07-31-12"
     },
     {
       "title": "当提示词优化器学会进化，竟能胜过强化学习",
       "summary": "AI提示词优化器通过自我进化超越传统强化学习，展现更强性能。",
       "link": "https://www.jiqizhixin.com/articles/2025-07-31-11"
-    },
-    {
-      "title": "ACL 2025主会论文 | TRIDENT：基于三维多样化红队数据合成的LLM安全增强方法",
-      "summary": "香港中文大学团队提出TRIDENT框架，通过三维多样化红队数据合成技术增强大语言模型安全性，相关论文入选ACL 2025主会议程。",
-      "link": "https://www.jiqizhixin.com/articles/2025-07-31-10"
-    },
-    {
-      "title": "谷歌发布AlphaEarth基础模型：构建「地球版ChatGPT」，融合多源数据，实现10米级地球观测",
-      "summary": "谷歌推出AlphaEarth基础模型，整合卫星等多源数据，打造高精度\"地球版ChatGPT\"，实现10米级观测能力。",
-      "link": "https://www.jiqizhixin.com/articles/2025-07-31-9"
-    },
-    {
-      "title": "微软花重金做的Copilot，居然被WPS一个按钮给秒了?",
-      "summary": "微软Copilot遭WPS\"一键生成\"功能挑战，AI办公工具竞争白热化。",
-      "link": "https://www.jiqizhixin.com/articles/2025-07-31-8"
     }
   ],
   "en": [
     {
-      "title": "Hey Microsoft, is it &#8216;Xbox PC&#8217; or &#8216;Xbox on PC&#8217;?",
-      "summary": "微软短暂试用的\"Xbox PC\"品牌名称已被弃用，该品牌原用于推广其PC游戏平台，现确认仅为临时营销策略。",
-      "link": "https://www.theverge.com/microsoft/716564/microsoft-xbox-pc-xbox-on-pc-branding-changes"
+      "title": "Apple shipped its 3 billionth iPhone",
+      "summary": "Apple CEO Tim Cook announced the company has sold 3 billion iPhones despite recent criticism over AI strategy and design choices.",
+      "link": "https://www.theverge.com/news/717103/apple-shipped-its-3-billionth-iphone"
     },
     {
-      "title": "Meta is playing the AI game with house money",
-      "summary": "Meta股价大涨10%后，扎克伯格豪掷AI投资获股东支持，Q2营收达475亿美元同比增长22%。",
-      "link": "https://www.theverge.com/news/716523/meta-q2-earnings-superintelligence-ai-mark-zzuckerberg"
+      "title": "Apple says Trump’s tariffs are adding another $1 billion to its costs",
+      "summary": "苹果因特朗普关税政策损失惨重，CEO库克称9月季度成本或增加11亿美元，6月季度已支出8亿美元。",
+      "link": "https://www.theverge.com/news/717108/apple-trump-tariffs-1-billion-cost"
     },
     {
-      "title": "All of your international packages are about to get more expensive",
-      "summary": "特朗普签署行政令，取消所有国家800美元以下商品免税入境待遇，此前已对中国和香港实施类似措施。",
-      "link": "https://www.theverge.com/news/716463/trump-white-house-end-de-minimis-exemption"
+      "title": "Tim Cook says Apple is ‘open to’ AI acquisitions",
+      "summary": "Apple CEO Tim Cook announces increased AI investments and openness to mergers during Q3 earnings call, as company reports $94 billion revenue, up 10% year-over-year.",
+      "link": "https://www.theverge.com/news/716790/apple-earnings-q3-2025-ai-tim-cook"
     },
     {
-      "title": "Spotify’s terrible privacy settings just leaked Palmer Luckey’s bops and bangers",
-      "summary": "\"Panama Playlists\" expose Spotify listening habits of politicians and journalists, revealing their musical preferences through leaked data.",
-      "link": "https://www.theverge.com/privacy/716386/spotifys-terrible-privacy-settings-just-leaked-palmer-luckeys-bops-and-bangers"
+      "title": "Google&#8217;s Pixel Tablet is $190 off for a limited time",
+      "summary": "Google Pixel Tablet (256GB) returns to $309 deal at Best Buy after brief Prime Day sellout, though with slightly different discount terms.",
+      "link": "https://www.theverge.com/tech/717035/google-pixel-tablet-deal-sale"
     },
     {
-      "title": "Microsoft reports strong cloud earnings, with Windows and Xbox up too",
-      "summary": "微软2025财年第四季度营收达764亿美元，净利润272亿美元，分别同比增长18%和24%，云服务仍是主要增长动力。",
-      "link": "https://www.theverge.com/news/716191/microsoft-q4-2025-earnings-revenue-profits-windows-xbox-gaming-surface"
+      "title": "Reddit wants to be a search engine now",
+      "summary": "Reddit CEO Steve Huffman announced plans to enhance the platform's search capabilities while leveraging its valuable user data, following recent AI licensing deals with OpenAI and Google.",
+      "link": "https://www.theverge.com/news/717095/reddit-q2-2025-earnings-search-engine"
     },
     {
-      "title": "In search of riches, hackers plant 4G-enabled Raspberry Pi in bank network",
-      "summary": "黑客利用4G联网树莓派植入银行网络窃取资金，并采用新型手段隐藏定制恶意软件。",
-      "link": "https://arstechnica.com/security/2025/07/in-search-of-riches-hackers-plant-4g-enabled-raspberry-pi-in-bank-network/"
+      "title": "Developer survey shows trust in AI coding tools is falling as usage rises",
+      "summary": "开发者调查显示，随着AI编程工具使用率上升，开发者对其信任度反而下降，因\"接近正确但不完全准确\"的AI方案导致更多调试工作。",
+      "link": "https://arstechnica.com/ai/2025/07/developer-survey-shows-trust-in-ai-coding-tools-is-falling-as-usage-rises/"
     },
     {
-      "title": "Senate confirms CDC director as top FDA official resigns under political pressure",
-      "summary": "Senate confirms Susan Monarez as CDC director amid FDA leadership shakeup with Vinay Prasad's abrupt resignation.",
-      "link": "https://arstechnica.com/health/2025/07/cdc-finally-gets-a-director-fdas-top-vaccine-regulator-exits-under-pressure/"
+      "title": "Man had a cross tattooed on his neck—it vanished, then his flesh started dying",
+      "summary": "男子颈部十字架纹身神秘消失后皮肤坏死，需手术切除病灶并重建颈部组织。",
+      "link": "https://arstechnica.com/health/2025/07/mark-of-the-damned-necrotic-ulcer-replaces-mans-cross-tattoo/"
     },
     {
-      "title": "St. Paul, MN was hacked so badly that the National Guard has been deployed",
-      "summary": "美国明尼苏达州圣保罗市遭遇严重网络攻击，迫使国民警卫队紧急介入，官方称这是一次\"蓄意协同的数字攻击\"。",
-      "link": "https://arstechnica.com/security/2025/07/st-paul-mn-was-hacked-so-badly-that-the-national-guard-has-been-deployed/"
+      "title": "Microsoft catches Russian hackers targeting foreign embassies",
+      "summary": "微软发现俄罗斯黑客攻击外国使馆，意图植入恶意TLS根证书以窃取情报。",
+      "link": "https://arstechnica.com/information-technology/2025/07/microsoft-catches-russian-hackers-targeting-foreign-embassies/"
     },
     {
-      "title": "Substack’s “Nazi problem” won’t go away after push notification apology",
-      "summary": "Substack faces ongoing criticism for platforming neo-Nazis despite apology, with experts warning it risks legitimizing extremists as \"thought leaders.\"",
-      "link": "https://arstechnica.com/tech-policy/2025/07/substacks-nazi-problem-wont-go-away-after-push-notification-apology/"
+      "title": "YouTube’s selfie collection, AI age checks are concerning, privacy experts say",
+      "summary": "YouTube's new AI-powered age verification system requiring selfies or ID uploads raises privacy concerns, as users mistakenly flagged as minors must submit sensitive personal data.",
+      "link": "https://arstechnica.com/tech-policy/2025/07/youtubes-selfie-collection-ai-age-checks-are-concerning-privacy-experts-say/"
     },
     {
-      "title": "Google tool misused to scrub tech CEO’s shady past from search",
-      "summary": "Google修复漏洞，此前该漏洞被用于删除科技CEO负面搜索记录，仅影响极少数网站。",
-      "link": "https://arstechnica.com/gadgets/2025/07/google-tool-misused-to-scrub-tech-ceos-shady-past-from-search/"
+      "title": "Google loses app store antitrust appeal, must make sweeping changes to Play Store",
+      "summary": "谷歌上诉失败，将被迫对Play商店进行重大调整，此举可能打破安卓应用市场垄断格局。",
+      "link": "https://arstechnica.com/gadgets/2025/07/google-loses-app-store-antitrust-appeal-must-make-sweeping-changes-to-play-store/"
+    },
+    {
+      "title": "The Download: OpenAI’s future research, and US climate regulation is under threat",
+      "summary": "OpenAI's research direction is now being shaped by two key figures, signaling a shift from its previous CEO-centric leadership style.",
+      "link": "https://www.technologyreview.com/2025/07/31/1120890/the-download-openais-future-research-and-us-climate-regulation-is-under-threat/"
     },
     {
       "title": "The two people shaping the future of OpenAI’s research",
-      "summary": "OpenAI CEO Sam Altman's celebrity status overshadows company's other leaders despite recent leadership turmoil, raising questions about the AI firm's internal dynamics beyond its charismatic figurehead.",
+      "summary": "OpenAI CEO Sam Altman's celebrity status overshadows company's other leaders despite recent leadership turmoil.",
       "link": "https://www.technologyreview.com/2025/07/31/1120885/the-two-people-shaping-the-future-of-openais-research/"
     },
     {
       "title": "The AI Hype Index: The White House’s war on “woke AI”",
-      "summary": "\"New AI Hype Index launched to demystify industry trends as Trump administration targets 'woke AI' with executive order.\"",
+      "summary": "\"New AI Hype Index launched to cut through industry noise, as Trump administration targets 'woke AI' with new executive order.\"",
       "link": "https://www.technologyreview.com/2025/07/30/1120783/the-ai-hype-index-the-white-houses-war-on-woke-ai/"
     },
     {
       "title": "An EPA rule change threatens to gut US climate regulations",
-      "summary": "美国环保署面临关键裁决，可能削弱联邦政府应对气候变化的监管能力，凸显美国科技创新基础正受威胁。",
+      "summary": "\"US climate regulation faces critical threat as EPA's authority comes under scrutiny, part of broader challenges to America's science leadership.\"",
       "link": "https://www.technologyreview.com/2025/07/30/1120849/epa-endangerment-finding/"
     },
     {
       "title": "Roundtables: Why It’s So Hard to Make Welfare AI Fair",
-      "summary": "Amsterdam's welfare algorithm experiment failed to eliminate bias, raising questions about whether fair AI assessments are possible, according to MIT Tech Review and investigative reporters.",
+      "summary": "Amsterdam's welfare algorithm experiment failed to eliminate bias, raising questions about whether fair AI decision-making is possible, as experts debate the challenges of algorithmic fairness in social systems.",
       "link": "https://www.technologyreview.com/2025/07/30/1120275/roundtables-why-its-so-hard-to-make-welfare-ai-fair/"
     },
     {
-      "title": "The Download: a 30-year old baby, and OpenAI’s push into colleges",
-      "summary": "\"Record-breaking baby born from 30-year-old frozen embryo sets new longevity milestone in reproductive technology.\"",
-      "link": "https://www.technologyreview.com/2025/07/30/1120823/the-download-a-30-year-old-baby-and-openais-push-into-colleges/"
+      "title": "Female-founded semiconductor AI startup SixSense raises $8.5M",
+      "summary": "AI startup SixSense secures funding from Peak XV's Surge to enhance chip manufacturing defect prevention with its AI platform.",
+      "link": "https://techcrunch.com/2025/07/31/female-founded-semiconductor-ai-startup-sixsense-raises-funding/"
     },
     {
-      "title": "Proton releases a new app for two-factor authentication",
-      "summary": "Proton推出免费跨平台认证器应用，支持端到端加密保护用户数据安全。",
-      "link": "https://techcrunch.com/2025/07/31/proton-releases-a-new-app-for-two-factor-authentication/"
+      "title": "Amazon CEO wants to put ads in your Alexa+ conversations",
+      "summary": "亚马逊CEO安迪·贾西展示Alexa+的AI广告新功能，通过多轮对话推荐商品，为科技行业开辟全新商业模式。",
+      "link": "https://techcrunch.com/2025/07/31/amazon-ceo-wants-to-put-ads-in-your-alexa-conversations/"
     },
     {
-      "title": "GitHub Copilot crosses 20 million all-time users",
-      "summary": "AI coding tool rapidly gains 5 million new users in just three months, cementing its market popularity.",
-      "link": "https://techcrunch.com/2025/07/30/github-copilot-crosses-20-million-all-time-users/"
+      "title": "Apple projects tariff costs will hit $1.1B next quarter",
+      "summary": "苹果CEO库克淡化关税担忧对销量的影响，强调产品实力才是消费者购买的主要动力。",
+      "link": "https://techcrunch.com/2025/07/31/apple-projects-tariff-costs-will-hit-1-1b-next-quarter/"
     },
     {
-      "title": "Kleiner Perkins-backed Ambiq pops on IPO debut",
-      "summary": "中国芯片制造商上市首日股价飙升61%，创15年新高。",
-      "link": "https://techcrunch.com/2025/07/30/kleiner-perkins-backed-ambiq-pops-on-ipo-debut/"
+      "title": "Reddit revenue soars as it bets on AI and advertising",
+      "summary": "Reddit's Q2 earnings surge driven by strategic AI investments and advertising growth.",
+      "link": "https://techcrunch.com/2025/07/31/reddit-revenue-soars-as-it-bets-on-ai-and-advertising/"
     },
     {
-      "title": "Aurora’s autonomous trucks are now driving at night. Its next big challenge is rain.",
-      "summary": "Aurora expands autonomous truck testing to nighttime operations and opens new Phoenix facility, with rain conditions identified as the next major challenge for its driverless technology.",
-      "link": "https://techcrunch.com/2025/07/30/auroras-autonomous-trucks-are-now-driving-at-night-its-next-big-challenge-is-rain/"
-    },
-    {
-      "title": "Figma’s IPO price hit a $19.3B valuation out of the gate",
-      "summary": "Figma priced IPO shares above its raised range, defying expectations with a strong market debut.",
-      "link": "https://techcrunch.com/2025/07/30/figmas-ipo-price-hit-a-19-3b-valuation-out-of-the-gate/"
+      "title": "Apple has now sold 3 billion iPhones",
+      "summary": "iPhone sales growth accelerates, but analysts caution the surge may be temporary.",
+      "link": "https://techcrunch.com/2025/07/31/apple-has-now-sold-three-billion-iphones/"
     }
   ]
 }
