@@ -1,132 +1,82 @@
 {
-  "updated_at": "2025年08月03日 18:31",
+  "updated_at": "2025年08月04日 12:06",
   "zh": [
     {
+      "title": "“具身智能: 从科学走向产业的探索与创新”论坛举行，国创中心深化人工智能科技金融合作",
+      "summary": "长三角国创中心与戈壁创投达成战略合作，将设立人工智能专项基金，计划3年内投资15-20个项目，构建\"资金+场景+产业资源\"支持体系，加速AI技术转化和商业化应用。",
+      "link": "https://36kr.com/p/3407926179401089?f=rss"
+    },
+    {
+      "title": "至格科技半年内再获亿元级融资，为清华孵化的AR眼镜光学厂商｜36氪首发",
+      "summary": "AR光学厂商至格科技完成亿元级融资，将用于产能扩充及产品迭代，其自主研发的衍射光波导技术已实现月产10万片规模，并推出\"无彩虹纹\"等创新方案提升用户体验。",
+      "link": "https://36kr.com/p/3407297031720329?f=rss"
+    },
+    {
+      "title": "自研生物结构预测基础模型，「探序秩元」试图打破新药研发双十定律 | 早期项目",
+      "summary": "【AI驱动科研范式变革】国内初创公司探序秩元发布可控生物分子结构预测模型IntelliFold，在蛋白质-核酸相互作用预测等指标上媲美AlphaFold3，并实现RNA结构预测超越。该团队融合结构生物学与大模型技术，瞄准药物设计痛点，通过适配器技术实现别构预测等精准控制，已开放测试平台并规划商业化应用。",
+      "link": "https://36kr.com/p/3402657495878016?f=rss"
+    },
+    {
+      "title": "8点1氪｜官方通报女司机亮证逼迫让路事件；自动驾驶车祸致1死1伤，特斯拉被裁定赔偿2.43亿美元；库克成苹果史上任期最长CEO",
+      "summary": "防城港通报\"女司机亮证逼让路\"事件：涉事女子非公职人员，其丈夫因违规保管执法证被立案调查，奔驰车为17.8万元二手购入。",
+      "link": "https://36kr.com/p/3407761551510919?f=rss"
+    },
+    {
       "title": "让经期护理少一点噱头，护舒宝推出“物理隔菌”液体卫生巾｜最前线",
-      "summary": "护舒宝在上海推出液体卫生巾Pro健康专研版，采用物理隔菌技术，强调不干扰阴道菌群平衡的科学护理理念，新品具备2倍速干吸收和95%隔菌能力，同时启动\"女生守护计划\"公益项目。",
+      "summary": "护舒宝在上海推出液体卫生巾Pro健康专研版，采用物理隔菌技术，强调不干扰阴道菌群平衡的科学护理理念，同时启动\"女生守护计划\"公益项目。",
       "link": "https://36kr.com/p/3403994763251329?f=rss"
     },
     {
-      "title": "6项桂冠揭晓：“数龙杯”全球AI游戏及应用创新大赛圆满落幕 | ChinaJoy2025",
-      "summary": "首届\"数龙杯\"全球AI游戏及应用创新大赛在2025ChinaJoy期间揭晓，趣丸科技\"天谱乐AI\"获最佳技术应用奖，11支团队分获6大奖项，展现AI与游戏深度融合的创新成果。",
-      "link": "https://36kr.com/p/3405732408839815?f=rss"
-    },
-    {
-      "title": "用AI破局情境化学习，瓦拉英语发力在线英语教育",
-      "summary": "教育科技公司\"瓦拉星球\"推出首款AI英语学习产品\"瓦拉英语\"，通过大模型技术构建数百个虚拟情境场景，为6-12岁学生提供沉浸式英语学习体验，已获1200万美元天使轮融资。",
-      "link": "https://36kr.com/p/3405695180230021?f=rss"
-    },
-    {
-      "title": "9点1氪｜香港高院判决宗馥莉不得动用汇丰账户资产；微信提现手续费最低下限改为0.01元；武汉大学回应“图书馆事件”",
-      "summary": "香港高等法院裁定宗馥莉不得动用汇丰账户资产，确认该账户为宗庆后三名子女的信托财产，案件涉及21亿美元资产归属争议。",
-      "link": "https://36kr.com/p/3404496873803140?f=rss"
-    },
-    {
-      "title": "破晓之光：2025 ChinaJoy AIGC大会圆满召开 | ChinaJoy2025",
-      "summary": "2025 ChinaJoy AIGC大会在上海召开，聚焦AI基建、人形机器人、数字娱乐等前沿议题，朱军、微软等专家展示多模态大模型、Agentic AI等突破性技术，探讨AI如何重塑产业生态与交互范式。",
-      "link": "https://36kr.com/p/3404585074806152?f=rss"
-    },
-    {
-      "title": "2026 款领克 06 Relive 汽车 8 月 5 日上市：新增“森珀绿”车漆，现款 10.86 万元起",
-      "summary": "领克06 Relive新款8月5日上市，新增\"森珀绿\"配色，延续现款设计，搭载1.5T发动机，售价或维持10.86万-12.98万元区间。",
-      "link": "https://www.ithome.com/0/872/743.htm"
-    },
-    {
-      "title": "学 30 个小时就能拿证开飞机？央视揭秘航校内幕",
-      "summary": "多家航校推出\"30小时速成飞行执照\"业务，学员仅需独立完成一次起降即可获证，但实际商用需累计65小时飞行时间，且存在违规操作空间。民航规章明确要求商业驾驶员需500小时飞行经历方可从事空中游览业务。",
-      "link": "https://www.ithome.com/0/872/739.htm"
-    },
-    {
-      "title": "八方旅人新作：《歧路旅人 0》游戏 PC 版配置公布，12 月 4 日发售",
-      "summary": "《歧路旅人》系列新作《歧路旅人 0》12月4日登陆PC/Switch平台，Steam公布配置需求，最低需GTX 960显卡，支持角色创建和城镇建设等新玩法。",
-      "link": "https://www.ithome.com/0/872/738.htm"
-    },
-    {
-      "title": "小米澎湃 HyperOS 部分场景原神画面无法全屏显示、花屏问题优化，升级后续版本可验证",
-      "summary": "小米澎湃OS修复《原神》全屏显示及花屏问题，同时优化12S Ultra相机慢动作帧率显示异常，用户升级后续版本即可体验改进。",
-      "link": "https://www.ithome.com/0/872/737.htm"
-    },
-    {
-      "title": "问界 M8 纯电版电池延寿方案经历 16 次迭代，华为数亿台手机技术积累发挥宝贵作用",
-      "summary": "华为问界M8纯电版将首发电池延寿技术，通过分析休眠场景数据优化算法，结合手机电池技术积累，实现整车全生命周期续航保障，同时搭载宁德时代100度电池及华为高压平台，CLTC续航达705公里。",
-      "link": "https://www.ithome.com/0/872/736.htm"
-    },
-    {
-      "title": "实测Qwen-MT翻译模型，确实又快又好",
-      "summary": "阿里云Qwen-MT翻译模型实测表现优异，但在处理双语谐音笑话时仍显不足。",
-      "link": "https://www.qbitai.com/2025/08/317888.html"
-    },
-    {
-      "title": "DeepMind哈萨比斯：AI能建模所有进化而来的事物",
-      "summary": "DeepMind创始人哈萨比斯表示，人工智能具备模拟所有生物进化产物的潜力，这一观点揭示了AI在生命科学领域的广阔应用前景。",
-      "link": "https://www.qbitai.com/2025/08/317822.html"
-    },
-    {
-      "title": "Hinton能重新坐下了，什么时候开始的？",
-      "summary": "AI教父Geoffrey Hinton结束站立办公实验，透露已恢复坐姿工作，此前曾因健康问题尝试站立办公引发关注。",
-      "link": "https://www.qbitai.com/2025/08/317778.html"
-    },
-    {
-      "title": "微软新研究：这40种工作最可能被AI取代",
-      "summary": "微软研究揭示40种最易被AI替代的职业，同时指出合理使用AI工具可提升工作效率。",
-      "link": "https://www.qbitai.com/2025/08/317748.html"
-    },
-    {
-      "title": "拒绝小扎6年15亿美元天价offer！网友：他是有多讨厌扎克伯格？？",
-      "summary": "Meta前员工拒绝扎克伯格6年15亿美元天价续约，引发网友热议其离职原因。",
-      "link": "https://www.qbitai.com/2025/08/317722.html"
+      "title": "马斯克：研究者不存在了，只有工程师；LeCun：大错特错",
+      "summary": "马斯克称\"研究者已不存在只剩工程师\"，遭Meta首席AI科学家LeCun强烈反驳，引发业界对科研与工程关系的热议。",
+      "link": "https://www.jiqizhixin.com/articles/2025-08-04"
     },
     {
       "title": "全网苦等GPT-5，超级对齐团队遗作成重要线索，奥特曼发话「惊喜很多」",
-      "summary": "OpenAI CEO奥特曼暗示GPT-5将带来重大突破，超级对齐团队研究成果或成关键，引发科技圈高度期待。",
+      "summary": "OpenAI CEO奥特曼暗示GPT-5将带来多项突破，超级对齐团队研究成果或成关键进展，引发业界高度期待。",
       "link": "https://www.jiqizhixin.com/articles/2025-08-03-4"
     },
     {
       "title": "图灵奖得主Sutton再突破：强化学习在控制问题上媲美深度强化学习？",
-      "summary": "AI先驱Sutton新研究显示：传统强化学习算法在控制问题上表现与深度强化学习相当，挑战现有技术范式。",
+      "summary": "强化学习先驱Sutton团队新研究显示，传统强化学习在控制问题上性能接近深度强化学习，挑战了当前AI领域对深度学习的依赖。",
       "link": "https://www.jiqizhixin.com/articles/2025-08-03-3"
     },
     {
       "title": "GUI定位还在玩「非黑即白」？浙大团队提出GUI-G²，显著提升GUI智能体定位性能",
-      "summary": "浙大团队研发GUI-G²技术，突破传统黑白定位局限，显著提升图形界面智能体的定位精度。",
+      "summary": "浙大团队开发GUI-G²技术，突破传统黑白定位局限，显著提升图形界面智能体的定位精度。",
       "link": "https://www.jiqizhixin.com/articles/2025-08-03-2"
     },
     {
       "title": "OpenAI IMO金牌团队爆料：AI拒绝作答第六题",
-      "summary": "OpenAI团队在国际数学奥赛测试中，其AI系统在完成五题后主动拒绝回答第六题，引发对AI解题边界的新讨论。",
+      "summary": "OpenAI数学竞赛团队透露，其AI系统在国际数学奥赛模拟测试中拒绝回答第六题，引发对AI解题能力边界的讨论。",
       "link": "https://www.jiqizhixin.com/articles/2025-08-03"
-    },
-    {
-      "title": "GPT-5难产，外媒爆料：性能提升不大，OpenAI高管Slack上当众破防",
-      "summary": "OpenAI高管因GPT-5性能提升未达预期在内部讨论中情绪失控，引发外界对下一代AI模型研发困境的关注。",
-      "link": "https://www.jiqizhixin.com/articles/2025-08-02-7"
     }
   ],
   "en": [
     {
+      "title": "Brendan Carr declares victory over the First Amendment",
+      "summary": "新闻自由基金会起诉FCC主席卡雷涉嫌滥用职权控制媒体，指控其违反律师职业操守。",
+      "link": "https://www.theverge.com/internet-censorship/717548/brendan-carr-paramount-merger-free-speech"
+    },
+    {
+      "title": "Nintendo raises the Switch 1 price from $299 to $339",
+      "summary": "Nintendo quietly raised prices for all Switch models in its US online store, with the original model now costing $339.99 (up from $299.99), OLED at $399.99 (from $349.99), and Lite at $229.99 (from $199.99).",
+      "link": "https://www.theverge.com/news/717610/nintendo-switch-original-price-increase"
+    },
+    {
+      "title": "Lenovo&#8217;s rollable laptop is the coolest computer I&#8217;ve used all year",
+      "summary": "联想推出全球首款可卷曲屏笔记本ThinkBook Plus Gen 6，将概念技术转化为实用产品，标志着柔性屏电脑进入商用阶段。",
+      "link": "https://www.theverge.com/reviews/717491/lenovo-thinkbook-plus-gen-6-rollable-laptop-review"
+    },
+    {
+      "title": "A webcam that’s almost like a real camera",
+      "summary": "The Verge's Installer newsletter celebrates its 92nd edition, featuring gaming updates and tech recommendations while maintaining its signature casual tone.",
+      "link": "https://www.theverge.com/installer-newsletter/717693/elgato-facecam-4k-lg-stanbyme-2-time-flies-installer"
+    },
+    {
       "title": "Today I&#8217;m toying with",
-      "summary": "科技视频系列\"Today I'm Toying With\"聚焦新奇电子产品的趣味体验，展示3D巧克力打印机等罕见科技玩具带来的纯粹快乐。",
+      "summary": "科技视频系列\"Today I'm Toying With\"聚焦新奇电子产品的趣味体验，展示3D巧克力打印机等罕见设备的独特魅力。",
       "link": "https://www.theverge.com/gadgets/712844/today-im-toying-with"
-    },
-    {
-      "title": "Samsung’s Galaxy Watch 8 just came out and you can already save $50",
-      "summary": "三星发布Galaxy Watch 8智能手表，配备全新设计、Google Gemini AI功能及多项健康监测技术，成为升级旧款或首次尝试可穿戴设备的理想选择。",
-      "link": "https://www.theverge.com/tech/717078/samsung-galaxy-watch-8-gamesir-super-nova-deal-sale"
-    },
-    {
-      "title": "The enforcer that could break up Apple and Google is facing upheaval",
-      "summary": "DOJ abruptly fires two senior antitrust officials overseeing major tech monopoly cases, citing \"insubordination,\" signaling internal turmoil at the agency.",
-      "link": "https://www.theverge.com/policy/717303/justice-department-antitrust-division-slater-alford-rinner-firing"
-    },
-    {
-      "title": "The ‘Epstein files’ implosion bleeds into foreign policy",
-      "summary": "MAGA influencers pivot from Epstein revelations to new conspiracy theories as political allies stall promised disclosures.",
-      "link": "https://www.theverge.com/politics/717725/maga-epstein-israel-netanyahu-carlson-nelk-boys"
-    },
-    {
-      "title": "The best fitness trackers and watches we’ve tested",
-      "summary": "现代健身追踪器已从简单计步升级为全能健康监测设备，可实时追踪心脏健康和训练恢复状态，旗舰智能手表也转型为专业运动伴侣。",
-      "link": "https://www.theverge.com/22985108/best-fitness-tracker"
     },
     {
       "title": "Five children see HIV viral loads vanish after taking antiretroviral drugs",
@@ -135,73 +85,73 @@
     },
     {
       "title": "With Trump’s cutbacks, crew heads for ISS unsure of when they’ll come back",
-      "summary": "NASA may extend Crew-11's ISS mission duration due to potential delays in SpaceX's Crew Dragon return schedule, amid uncertainties about future crew rotation plans.",
+      "summary": "NASA may extend Crew-11's ISS mission duration due to potential delays in SpaceX's Crew Dragon return schedule, leaving astronauts uncertain about their homecoming timeline.",
       "link": "https://arstechnica.com/space/2025/08/with-trumps-cutbacks-crew-heads-for-iss-unsure-of-when-theyll-come-back/"
     },
     {
       "title": "At $250 million, top AI salaries dwarf those of the Manhattan Project and the Space Race",
-      "summary": "AI salaries now far surpass historic scientific projects, with young researchers earning 327 times Oppenheimer's atomic bomb-era pay.",
+      "summary": "AI researchers now command salaries up to $250 million, surpassing historic projects like the Manhattan Project, with young experts earning 327 times Oppenheimer's atomic bomb-era pay.",
       "link": "https://arstechnica.com/ai/2025/08/at-250-million-top-ai-salaries-dwarf-those-of-the-manhattan-project-and-the-space-race/"
     },
     {
       "title": "RIP Corporation for Public Broadcasting: 1967–2026",
-      "summary": "美国公共广播公司（CPB）将于2026年关闭，结束59年运营，NPR警告此举将损害全美社区公共服务。",
+      "summary": "美国公共广播公司（CPB）将于2026年关闭，结束59年运营，NPR警告此举将损害全美社区服务。",
       "link": "https://arstechnica.com/tech-policy/2025/08/corporation-for-public-broadcasting-will-shut-down-in-2026/"
     },
     {
       "title": "Under RFK Jr, CDC skips study on vaccination rates, quietly posts data on drop",
-      "summary": "CDC quietly released data showing vaccination rates dropped to record lows under RFK Jr's tenure, with nonmedical exemptions reaching unprecedented levels.",
+      "summary": "CDC quietly released data showing vaccination rates declined amid rising nonmedical exemptions, bypassing usual study protocols under RFK Jr's leadership.",
       "link": "https://arstechnica.com/health/2025/08/under-rfk-jr-cdc-skips-study-on-vaccination-rates-quietly-posts-data-on-drop/"
     },
     {
       "title": "Forcing LLMs to be evil during training can make them nicer in the long run",
-      "summary": "AI研究揭示语言模型行为模式：特定神经活动与不良特质相关，但训练中激活这些模式反而能防止模型产生相应负面行为。",
+      "summary": "AI研究揭示语言模型行为模式：特定活动特征与\"邪恶\"或谄媚倾向相关，而训练中激活这些模式反而可能抑制不良特质。",
       "link": "https://www.technologyreview.com/2025/08/01/1120924/forcing-llms-to-be-evil-during-training-can-make-them-nicer-in-the-long-run/"
     },
     {
       "title": "The Download: how fertility tech is changing families, and Trump’s latest tariffs",
-      "summary": "\"Record-breaking baby born from 30-year-old frozen embryo, highlighting how cryopreservation is reshaping modern families.\"",
+      "summary": "\"Record-breaking baby born from 30-year-old frozen embryo, marking new milestone in reproductive technology and reshaping family timelines.\" (99 characters)",
       "link": "https://www.technologyreview.com/2025/08/01/1120918/the-download-how-fertility-tech-is-changing-families-and-trumps-latest-tariffs/"
     },
     {
       "title": "How decades-old frozen embryos are changing the shape of families",
-      "summary": "\"30年冷冻胚胎成功诞生，创下世界纪录婴儿\"——一对美国夫妇近日迎来特殊宝宝，其胚胎在液氮中保存了30.5年，刷新人类胚胎冷冻保存后成功分娩的最长纪录。",
+      "summary": "\"30-year-old frozen embryo sets record as 'world's oldest baby' is born to US couple who were children when it was preserved.\"",
       "link": "https://www.technologyreview.com/2025/08/01/1120911/decades-old-frozen-embryos-are-changing-the-shape-of-families/"
     },
     {
       "title": "The Download: OpenAI’s future research, and US climate regulation is under threat",
-      "summary": "OpenAI's research direction is now being shaped by two key figures beyond CEO Sam Altman, marking a shift from the company's previous one-man leadership image, according to MIT Technology Review's The Download newsletter.",
+      "summary": "OpenAI's research future is being shaped by two key figures beyond CEO Sam Altman, signaling a shift from its one-man brand image, reports MIT Technology Review.",
       "link": "https://www.technologyreview.com/2025/07/31/1120890/the-download-openais-future-research-and-us-climate-regulation-is-under-threat/"
     },
     {
       "title": "The two people shaping the future of OpenAI’s research",
-      "summary": "OpenAI CEO Sam Altman's celebrity status overshadows company's other leaders despite his brief ouster, highlighting his dominant public persona in the AI firm's narrative.",
+      "summary": "OpenAI CEO Sam Altman's celebrity status overshadows company's technical leadership, despite his dramatic ouster and reinstatement.",
       "link": "https://www.technologyreview.com/2025/07/31/1120885/the-two-people-shaping-the-future-of-openais-research/"
     },
     {
-      "title": "Tim Cook reportedly tells employees Apple ‘must’ win in AI",
-      "summary": "Apple CEO Tim Cook emphasized AI dominance in internal meeting, declaring \"Apple must and will win in AI\" during hourlong staff discussion.",
-      "link": "https://techcrunch.com/2025/08/02/tim-cook-reportedly-tells-employees-apple-must-win-in-ai/"
+      "title": "Apple might be building its own AI ‘answer engine’",
+      "summary": "苹果正开发轻量级AI\"答案引擎\"，或成ChatGPT新对手。",
+      "link": "https://techcrunch.com/2025/08/03/apple-might-be-building-its-own-ai-answer-engine/"
     },
     {
-      "title": "Lina Khan points to Figma IPO as vindication of M&A scrutiny",
-      "summary": "FTC前主席Lina Khan意外点赞Figma上市，称其证明了\"让初创企业独立成长\"的价值。",
-      "link": "https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/"
+      "title": "Mastercard denies pressuring game platforms, Valve tells a different story",
+      "summary": "Mastercard denies direct involvement in Valve's adult game purge, while Valve cites indirect payment processor pressure.",
+      "link": "https://techcrunch.com/2025/08/03/mastercard-denies-pressuring-game-platforms-valve-tells-a-different-story/"
     },
     {
-      "title": "Anthropic cuts off OpenAI’s access to its Claude models",
-      "summary": "Anthropic blocks OpenAI from accessing its Claude AI models, severing ties between the rival AI companies.",
-      "link": "https://techcrunch.com/2025/08/02/anthropic-cuts-off-openais-access-to-its-claude-models/"
+      "title": "SAP is acquiring SmartRecruiters",
+      "summary": "SAP将收购招聘软件公司SmartRecruiters，以增强其人力资源解决方案组合。",
+      "link": "https://techcrunch.com/2025/08/03/sap-is-acquiring-smartrecruiters/"
     },
     {
-      "title": "What founders should think about if looking to raise a Series C",
-      "summary": "Sapphire Ventures' Cathy Gao advises founders seeking Series C funding to begin with a realistic assessment of their company's position and market conditions.",
-      "link": "https://techcrunch.com/2025/08/02/what-founders-should-think-about-if-looking-to-raise-a-series-c/"
+      "title": "Inside OpenAI’s quest to make AI do anything for you",
+      "summary": "硅谷AI焦点转向智能代理，OpenAI首款推理模型问世不到一年即引发行业转向。",
+      "link": "https://techcrunch.com/2025/08/03/inside-openais-quest-to-make-ai-do-anything-for-you/"
     },
     {
-      "title": "Venture firm CRV raises $750M, downsizing after returning capital to investors",
-      "summary": "老牌风投CRV募资7.5亿美元成立第20期基金，规模较上期缩减并已向投资人返还部分资金。",
-      "link": "https://techcrunch.com/2025/08/01/venture-firm-crv-raises-750m-downsizing-after-returning-capital-to-investors/"
+      "title": "The uproar over Vogue’s AI-generated ad isn’t just about fashion",
+      "summary": "模特行业面临AI挑战，从业者担忧数字完美标准加剧竞争压力。",
+      "link": "https://techcrunch.com/2025/08/03/the-uproar-over-vogues-ai-generated-ad-isnt-just-about-fashion/"
     }
   ]
 }
