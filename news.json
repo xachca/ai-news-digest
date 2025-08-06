@@ -1,108 +1,113 @@
 {
-  "updated_at": "2025年08月06日 11:04",
+  "updated_at": "2025年08月06日 18:35",
   "zh": [
     {
+      "title": "智谱、阶跃、阿里大混战，大模型重回2023",
+      "summary": "中国AI六小虎在WAIC期间密集发布新一代大模型，智谱GLM-4.5与阿里通义千问3展开性能对决，月之暗面K2和MiniMax等企业也通过开源策略争夺开发者市场，行业竞争白热化。",
+      "link": "https://36kr.com/p/3411113687944579?f=rss"
+    },
+    {
+      "title": "求购卫蓝新能源老股份额；求购小红书老股份额｜资情留言板第167期",
+      "summary": "36氪资情留言板第167期发布，涵盖字节跳动（估值3200亿美元）、小红书（估值380亿美元）等多家科技公司老股求购信息，同时提供医疗器械、小家电等领域并购标的，并转让货拉拉、沃飞长空等企业LP份额，为买卖双方搭建高效交易对接平台。",
+      "link": "https://36kr.com/p/3411040174853510?f=rss"
+    },
+    {
+      "title": "对话百度文库产品负责人钟昊：AI 如何重塑内容创作生态",
+      "summary": "百度文库产品负责人钟昊在WAIC 2025透露，百度文库通过MoE架构和GenFlow调度系统实现AI深度重构，已转型为一站式AI创作平台，其智能PPT功能可基于多源素材自动生成内容。未来将推出GenFlow 2.0，具备并行处理、主动思考等创新交互能力，致力于降低创作门槛，实现人机协同新范式。",
+      "link": "https://36kr.com/p/3410964970081920?f=rss"
+    },
+    {
       "title": "“护航者计划”专题培训在临港新片区“走出去”综合服务平台落地",
-      "summary": "临港新片区\"走出去\"平台启动\"护航者计划\"专题培训，汇聚政企学界资源，助力中资企业应对全球化挑战，涵盖金融、合规、人才等关键领域，已累计服务千余家出海企业。",
+      "summary": "临港新片区\"走出去\"平台启动\"护航者计划\"专题培训，汇聚政企学界资源，助力中资企业应对全球化挑战，覆盖合规、金融、人才等关键领域，已累计服务千余家企业。",
       "link": "https://36kr.com/p/3410742084029824?f=rss"
     },
     {
       "title": "大模型、机器人、Agent扎堆亮相……36氪WAIC2025「氪话未来」直播间藏着多少AI「未来答案」？",
-      "summary": "2025世界人工智能大会在上海开幕，展出40余款大模型、50余款AI终端及60余款智能机器人，聚焦AI与全产业链融合，探讨医疗、工业等领域的应用突破，展示AI技术从概念到落地的全面进展。",
+      "summary": "2025世界人工智能大会在上海开幕，展出40余款大模型、50余款AI终端及60余款智能机器人，聚焦AI与医疗、工业等产业融合，探讨技术落地与全球治理新趋势。",
       "link": "https://36kr.com/p/3410724381035906?f=rss"
     },
     {
-      "title": "又一个刚入华的时尚品牌盯上了中女们的钱包",
-      "summary": "设计师品牌Phoebe Philo加速中国市场布局，在中国六城签约五家零售商，首次进军亚洲市场。其高价策略（手袋均价4-5万）引发争议，但凭借极简设计和忠实粉丝基础，去年首季产品24小时内售罄。品牌正从纯线上转向线下扩张，计划在伦敦开设独立门店并调整商业策略，但面临供应链、定价和市场竞争等挑战。",
-      "link": "https://36kr.com/p/3409749283851653?f=rss"
+      "title": "“松绑”市场低空经济：美国当局拟放宽商用无人机超视距飞行限制",
+      "summary": "美国拟放宽无人机超视距飞行限制，允许商用无人机在400英尺以下空域作业，无需逐案审批，将推动物流、农业等领域应用发展。",
+      "link": "https://www.ithome.com/0/873/523.htm"
     },
     {
-      "title": "8点1氪｜国办：免除公办幼儿园学前一年保教费；最高法规定“不缴社保约定无效”；深铁集团再借给万科16.8亿元",
-      "summary": "OpenAI发布两款开放权重AI模型GPT-oss-120b和GPT-oss-20b，支持文本生成和代码编写等任务，但未公开训练数据，未实现完全开源。",
-      "link": "https://36kr.com/p/3410602515451525?f=rss"
+      "title": "国家电网用电负荷连续 3 天创历史新高，17 个省级电网负荷 50 次创新高",
+      "summary": "国家电网经营区用电负荷连续3天破纪录，峰值达12.33亿千瓦，17个省级电网50次创新高，跨省输电工程助力电力保供。",
+      "link": "https://www.ithome.com/0/873/521.htm"
     },
     {
-      "title": "氪星晚报 | 华为宣布CANN全面开源开放，共建昇腾生态;深圳华强：与宇树科技业务合作正处于推进阶段，规模有待进一步提升;腾讯等入股赛丽科技公司，后者为无晶圆芯片设计公司",
-      "summary": "华为宣布CANN全面开源开放，Mind系列套件及工具链同步开源，并联合产业伙伴发起昇腾生态共建倡议。",
-      "link": "https://36kr.com/p/3409884166164103?f=rss"
+      "title": "首次实现无人工干预：微软推出 AI 恶意软件检测智能体 Project Ire，精确度高达 98%",
+      "summary": "微软推出AI恶意软件检测系统Project Ire，可自主完成逆向工程与分类，测试中精准度达98%，将集成至Defender提升网络安全防御能力。",
+      "link": "https://www.ithome.com/0/873/520.htm"
     },
     {
-      "title": "我国科学家研发视觉麦克风：可“看”到贝多芬《致爱丽丝》声音片段",
-      "summary": "北京理工大学团队研发出新型视觉麦克风，通过捕捉物体表面振动转化为声音信号，成本低且适用于传统麦克风失效场景，相关成果发表于《光学快讯》。",
-      "link": "https://www.ithome.com/0/873/368.htm"
+      "title": "比亚迪腾势 Z 跑车最新路试视频曝光",
+      "summary": "腾势Z跑车路试谍照曝光，配备散热孔或推敞篷/硬顶双版本，搭载云辇-M车身控制系统等自研技术。",
+      "link": "https://www.ithome.com/0/873/517.htm"
     },
     {
-      "title": "美公布“泰坦”号深潜器事故调查报告：多方面存在缺陷，爆炸悲剧本可避免",
-      "summary": "美国调查报告认定\"泰坦\"号潜水器内爆事故主因是设计维护缺陷，船体异常未获处理，公司安全文化存在严重问题，导致5人瞬间死亡。",
-      "link": "https://www.ithome.com/0/873/367.htm"
+      "title": "新增离车供电模式、分屏等功能，零跑 2024 款 C11 / C01 汽车即将获 OTA 升级",
+      "summary": "零跑汽车2024款C11/C01将迎来OTA升级，新增离车供电、分屏显示、自定义壁纸等功能，并优化语音交互、自动驾驶辅助等多项体验。",
+      "link": "https://www.ithome.com/0/873/502.htm"
     },
     {
-      "title": "因博通芯片漏洞，数千万台戴尔 PC 面临高危风险",
-      "summary": "戴尔紧急警告：博通芯片漏洞致数千万商务笔记本面临信息泄露风险，已发布关键补丁。",
-      "link": "https://www.ithome.com/0/873/366.htm"
+      "title": "战报：马斯克Grok4笑傲AI象棋大赛，DeepSeek没干过o4-mini，Kimi K2被喊冤",
+      "summary": "马斯克旗下Grok4在AI象棋大赛夺冠，DeepSeek不敌o4-mini，Kimi K2表现引发争议，谷歌与Kaggle联合举办AI国际象棋赛事。",
+      "link": "https://www.qbitai.com/2025/08/319613.html"
     },
     {
-      "title": "北京餐协倡议联合抵制“内卷式”竞争，不用“先涨价后补贴”等方式误导消费者",
-      "summary": "北京市餐饮行业协会发布倡议书，呼吁抵制\"内卷式\"恶性竞争，禁止低于成本倾销、强制分摊补贴等行为，强调应通过技术创新和服务优化提升竞争力，共同维护行业健康发展。",
-      "link": "https://www.ithome.com/0/873/365.htm"
+      "title": "OpenAI首席科学家访谈被紧急制止！有些名字现在不让说了……",
+      "summary": "OpenAI首席科学家伊利亚·苏茨克韦在访谈中被紧急打断，疑似因提及Meta等敏感词被叫停，引发业内对AI公司言论管控的讨论。",
+      "link": "https://www.qbitai.com/2025/08/319587.html"
     },
     {
-      "title": "《博德之门 3》两周年，拉瑞安恳请玩家耐心等待“下一疯狂之作”",
-      "summary": "拉瑞安工作室CEO透露正开发\"更疯狂\"新项目，承诺将以出人意料方式带来惊喜，但未公布具体细节和发布时间。",
-      "link": "https://www.ithome.com/0/873/363.htm"
+      "title": "“神经-符号”融合规划器性能显著超越o1：借鉴人类运动学习机制",
+      "summary": "新型\"神经-符号\"规划器通过模拟人类运动学习机制，在性能上大幅超越传统系统，并能自主激活反馈接收功能。",
+      "link": "https://www.qbitai.com/2025/08/319472.html"
     },
     {
-      "title": "Claude Opus 4.1火速发布！坐稳编程之王，官方：马上还有大更新",
-      "summary": "AI巨头Anthropic闪电发布Claude Opus 4.1版本，强化编程能力保持领先优势，官方预告近期将推出更多升级功能，性能提升但维持原价。",
-      "link": "https://www.qbitai.com/2025/08/319253.html"
+      "title": "六座Model Y L最新爆料：后排4座都可折叠，全部放倒可当“货厢”",
+      "summary": "特斯拉Model Y L六座版后排座椅可全平放倒变身\"货厢\"，新车配色信息同步曝光。",
+      "link": "https://www.qbitai.com/2025/08/319443.html"
     },
     {
-      "title": "智能体迈入L4 时代！纳米AI多智能体蜂群，可创作最长10分钟AI视频",
-      "summary": "纳米AI突破多智能体技术，实现L4级自主创作10分钟长视频，成本骤降95%以上。",
-      "link": "https://www.qbitai.com/2025/08/319236.html"
+      "title": "腾讯AI Lab开源可复现的深度研究智能体，最大限度降低外部依赖",
+      "summary": "腾讯AI Lab开源深度研究智能体框架，采用免费开源工具构建，显著降低外部依赖，提升研究可复现性。",
+      "link": "https://www.qbitai.com/2025/08/319416.html"
     },
     {
-      "title": "刚刚，OpenAI开源2个推理模型：笔记本/手机就能跑，性能接近o4-mini",
-      "summary": "OpenAI开源两款轻量级推理模型，适配笔记本和手机设备，性能接近o4-mini，相关技术文档同步发布。",
-      "link": "https://www.qbitai.com/2025/08/319141.html"
+      "title": "一图读懂《上海市具身智能产业发展实施方案》",
+      "summary": "上海发布具身智能产业方案，明确发展路径与重点任务。",
+      "link": "https://www.jiqizhixin.com/articles/2025-08-06-13"
     },
     {
-      "title": "首批“数字员工”组团进大厂！7个岗位干爆KPI，提前锁定年度最佳企业级Agent",
-      "summary": "国内首批\"数字员工\"正式上岗，7大岗位表现亮眼，企业级Agent应用迎来突破性进展。",
-      "link": "https://www.qbitai.com/2025/08/319116.html"
+      "title": "ICML2025｜探索损失加权机制的本质以实现更好的LLM反学习",
+      "summary": "ICML2025研究揭示损失加权机制本质，为提升大语言模型反学习效果提供新思路。",
+      "link": "https://www.jiqizhixin.com/articles/2025-08-06-12"
     },
     {
-      "title": "ISC.AI 2025 第十三届互联网安全大会 8月6日-8月7日",
-      "summary": "第十三届互联网安全大会ISC.AI 2025将于8月6日至7日举行，聚焦人工智能与网络安全前沿议题。",
-      "link": "https://isc.360.com/new/2025.htm#new_tab"
+      "title": "快270倍，精度超93%，浙大侯廷军、康玉团队等全新扩散生成模型，树立蛋白质-多肽对接新标准",
+      "summary": "浙江大学侯廷军、康玉团队开发出新型扩散生成模型，将蛋白质-多肽对接速度提升270倍，准确率超93%，创下该领域新标杆。",
+      "link": "https://www.jiqizhixin.com/articles/2025-08-06-11"
     },
     {
-      "title": "震撼，世界模型第一次超真实地模拟了真实世界：谷歌Genie 3昨晚抢了OpenAI风头",
-      "summary": "谷歌Genie 3突破性世界模型技术惊艳亮相，首次实现超真实世界模拟，在AI领域引发轰动。",
-      "link": "https://www.jiqizhixin.com/articles/2025-08-06-5"
+      "title": "群核科技InteriorGS数据集登顶全球开源榜首",
+      "summary": "群核科技InteriorGS数据集全球开源排名第一，展现中国AI技术实力。",
+      "link": "https://www.jiqizhixin.com/articles/2025-08-06-10"
     },
     {
-      "title": "就是阻击OpenAI，Claude抢先数十分钟发布Claude Opus 4.1",
-      "summary": "Claude抢先OpenAI发布4.1版本，AI巨头竞争白热化。",
-      "link": "https://www.jiqizhixin.com/articles/2025-08-06-4"
-    },
-    {
-      "title": "北大、蚂蚁三个维度解构高效隐私保护机器学习：前沿进展+发展方向",
-      "summary": "北大与蚂蚁集团合作研究隐私保护机器学习，提出三维度解决方案并探讨未来发展方向。",
-      "link": "https://www.jiqizhixin.com/articles/2025-08-06-3"
-    },
-    {
-      "title": "OpenAI重新开源！深夜连发两个推理模型，o4-mini水平，笔记本、手机可跑",
-      "summary": "OpenAI低调开源两款轻量级推理模型o4-mini，适配移动端设备，性能表现引发开发者关注。",
-      "link": "https://www.jiqizhixin.com/articles/2025-08-06-2"
-    },
-    {
-      "title": "Discrete Tokenization：多模态大模型的关键基石，首个系统化综述发布",
-      "summary": "首个系统化综述揭示离散分词技术为多模态大模型的核心基础，推动AI理解跨模态数据能力突破。",
-      "link": "https://www.jiqizhixin.com/articles/2025-08-06"
+      "title": "闹玩呢！首届大模型对抗赛，DeepSeek、Kimi第一轮被淘汰了",
+      "summary": "首届大模型对抗赛爆冷：DeepSeek和Kimi首轮出局，赛事结果引发行业热议。",
+      "link": "https://www.jiqizhixin.com/articles/2025-08-06-9"
     }
   ],
   "en": [
+    {
+      "title": "Microsoft’s plan to fix the web with AI has already hit an embarrassing security flaw",
+      "summary": "微软大力推广的NLWeb协议曝出重大漏洞，该协议号称\"智能网络HTML\"，旨在为网站和应用提供类ChatGPT搜索功能，却在发布数月后被发现严重安全隐患。",
+      "link": "https://www.theverge.com/news/719617/microsoft-nlweb-security-flaw-agentic-web"
+    },
     {
       "title": "Google is rolling out a fix for Pixel back button issues",
       "summary": "Google's August Pixel update resolves unresponsive navigation issues in Android 16, addressing problems reported since its June release.",
@@ -110,12 +115,12 @@
     },
     {
       "title": "The best robot vacuum and mop to buy right now",
-      "summary": "新一代扫拖一体机器人清洁效果显著提升，虽不及人工彻底，但定期使用可大幅减少日常清洁负担。",
+      "summary": "新一代扫拖一体机器人吸尘器性能显著提升，虽不及人工清洁彻底，但定期使用可大幅降低日常清洁负担。",
       "link": "https://www.theverge.com/tech/625409/best-robot-vacuum-mops"
     },
     {
       "title": "The best iPad deals you can get in August",
-      "summary": "第三方零售商提供iPad大幅折扣，苹果官方商店优惠极少，消费者可关注亚马逊等平台获取更划算价格。",
+      "summary": "第三方零售商如亚马逊和沃尔玛提供iPad大幅折扣，比苹果官方商店更划算，即使在非促销季也能省钱。",
       "link": "https://www.theverge.com/tech/716470/best-ipad-deals"
     },
     {
@@ -124,48 +129,43 @@
       "link": "https://www.theverge.com/news/719382/apple-cinemas-sand-media-lawsuit-theater-chain"
     },
     {
-      "title": "TP-Link’s new travel router delivers Wi-Fi 7 speeds",
-      "summary": "TP-Link unveils its first Wi-Fi 7 travel router, offering 3.6Gbps bandwidth to simplify multi-device connectivity for travelers frustrated with public Wi-Fi access.",
-      "link": "https://www.theverge.com/news/719334/tp-link-be3600-wifi-7-travel-router-vpn"
-    },
-    {
       "title": "In trial, people lost twice as much weight by ditching ultraprocessed food",
-      "summary": "新研究显示，放弃超加工食品可使减肥效果翻倍，试验中参与者改吃手工制作食物后体重显著下降。",
+      "summary": "新研究显示，放弃超加工食品可使减肥效果翻倍，试验中自制意面等天然食品替代预制食品显著提升减重效果。",
       "link": "https://arstechnica.com/health/2025/08/in-trial-people-lost-twice-as-much-weight-by-ditching-ultraprocessed-food/"
     },
     {
       "title": "RIP to the Macintosh HD hard drive icon, 2000–2025",
-      "summary": "苹果macOS 26 Tahoe系统移除传统机械硬盘图标，标志2000年启用的经典Macintosh HD硬盘图标正式退役。",
+      "summary": "苹果在macOS 26 Tahoe中移除了沿用25年的机械硬盘图标设计，标志着传统存储设备视觉符号的终结。",
       "link": "https://arstechnica.com/gadgets/2025/08/rip-to-the-macintosh-hd-hard-drive-icon-2000-2025/"
     },
     {
       "title": "Trump admin warns states: Don’t try to lower broadband prices",
-      "summary": "特朗普政府警告各州不要试图降低宽带价格，要求获得补贴的互联网服务商提供\"低价\"套餐，但允许企业自行定价。",
+      "summary": "特朗普政府警告各州不要试图降低宽带价格，要求获得补贴的互联网服务商提供\"低价\"套餐，但允许其自行定价。",
       "link": "https://arstechnica.com/tech-policy/2025/08/trump-admin-warns-states-dont-try-to-lower-broadband-prices/"
     },
     {
       "title": "Titan sub implosion caused by absolutely bonkers “toxic workplace environment”",
-      "summary": "泰坦号潜水器内爆事故调查揭示CEO领导下的\"有毒工作环境\"是主因，公司管理问题引发安全质疑。",
+      "summary": "泰坦号潜水器内爆事故调查揭露CEO鲁什营造的\"有毒工作环境\"，其管理方式受到强烈质疑。",
       "link": "https://arstechnica.com/science/2025/08/titan-sub-implosion-caused-by-absolutely-bonkers-toxic-workplace-environment/"
     },
     {
       "title": "Murena’s Pixel Tablet is helping to wean me off Google",
-      "summary": "Murena推出Pixel Tablet替代品，主打隐私功能挑战谷歌生态，推动隐私成为硬件竞争新卖点。",
+      "summary": "Murena's Pixel Tablet promotes privacy as a key selling point, offering users an alternative to Google's ecosystem while highlighting privacy-focused features as a competitive advantage in tech devices.",
       "link": "https://arstechnica.com/gadgets/2025/08/murenas-pixel-tablet-is-helping-to-wean-me-off-google/"
     },
     {
       "title": "OpenAI has finally released open-weight language models",
-      "summary": "OpenAI时隔五年再次开源大模型，推出两款不同规模的\"gpt-oss\"模型，性能接近其商业产品o3/o4-mini，支持自由下载和本地部署。",
+      "summary": "OpenAI时隔五年再次开源大模型，推出两款不同尺寸的\"gpt-oss\"模型，性能接近其商业产品o3-mini和o4-mini，用户可自由下载运行。",
       "link": "https://www.technologyreview.com/2025/08/05/1121092/openai-has-finally-released-open-weight-language-models/"
     },
     {
       "title": "The Download: AI agent infrastructure, and OpenAI’s ambitions",
-      "summary": "\"AI agents are evolving to handle complex tasks like emails and document creation, with new protocols emerging to manage real-world unpredictability, as companies race to develop smarter digital assistants.\"",
+      "summary": "\"AI agents are evolving to handle complex real-world tasks, with new protocols enabling them to navigate human workflows like email management and document creation, signaling a shift toward autonomous digital assistants.\"",
       "link": "https://www.technologyreview.com/2025/08/05/1121056/the-download-ai-agent-infrastructure-openai-ambitions/"
     },
     {
       "title": "A glimpse into OpenAI’s largest ambitions",
-      "summary": "OpenAI balances dual roles as a product-focused tech giant handling 2.5 billion daily ChatGPT requests while pursuing its original mission to develop artificial general intelligence through research.",
+      "summary": "OpenAI balances dual roles as both a product-focused tech giant with ChatGPT handling 2.5 billion daily requests and a research lab pursuing artificial general intelligence.",
       "link": "https://www.technologyreview.com/2025/08/05/1121052/a-glimpse-into-openais-largest-ambitions/"
     },
     {
@@ -180,27 +180,27 @@
     },
     {
       "title": "Clay confirms it closed $100M round at $3.1B valuation",
-      "summary": "AI销售自动化初创公司在上一轮融资仅几个月后，又获得由CapitalG领投的新一轮资金。",
+      "summary": "AI销售自动化初创公司在上一轮融资仅数月后，又获得由CapitalG领投的新一轮资金。",
       "link": "https://techcrunch.com/2025/08/05/clay-confirms-it-closed-100m-round-at-3-1b-valuation/"
     },
     {
       "title": "For the first time, OpenAI models are available on AWS",
-      "summary": "AWS and Google Cloud strike AI partnership amid growing competition, signaling strategic shift after AWS faced criticism over AI development delays.",
+      "summary": "AWS partners with Hugging Face to challenge Microsoft's AI dominance, signaling intensified cloud AI competition amid recent criticism of AWS's AI advancements.",
       "link": "https://techcrunch.com/2025/08/05/for-the-first-time-openai-models-are-available-on-aws/"
     },
     {
       "title": "Linda Yaccarino joins health tech platform eMed as CEO after leaving X",
-      "summary": "eMed appoints Linda Yaccarino to board despite lacking health tech experience, citing her strong partnership negotiation skills.",
+      "summary": "eMed appoints Linda Yaccarino as CEO, citing her partnership negotiation skills despite lacking health tech experience.",
       "link": "https://techcrunch.com/2025/08/05/linda-yaccarino-joins-health-tech-platform-emed-as-ceo-after-leaving-x/"
     },
     {
       "title": "Substack rival Ghost connects to the open social web with its latest public release",
-      "summary": "Ghost 6正式发布，主打ActivityPub集成功能，同时带来多项更新与新增特性。",
+      "summary": "Ghost 6 launches with ActivityPub integration as flagship feature, alongside multiple platform upgrades and new additions.",
       "link": "https://techcrunch.com/2025/08/05/substack-rival-ghost-connects-to-the-open-social-web-with-its-latest-public-release/"
     },
     {
       "title": "OpenAI launches two ‘open’ AI reasoning models",
-      "summary": "OpenAI unveils cutting-edge open language model, marking first major release in over five years.",
+      "summary": "OpenAI unveils cutting-edge open language model, marking its first major release in over five years.",
       "link": "https://techcrunch.com/2025/08/05/openai-launches-two-open-ai-reasoning-models/"
     }
   ]
