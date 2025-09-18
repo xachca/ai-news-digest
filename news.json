@@ -1,207 +1,182 @@
 {
-  "updated_at": "2025年09月17日 18:29",
+  "updated_at": "2025年09月18日 10:26",
   "zh": [
     {
-      "title": "苹果，不想成为下一个Intel",
-      "summary": "苹果iPhone 17系列大幅升级并降价，一反常态“堆料”应对市场份额下滑，背后是向软件服务生态的战略转型。",
-      "link": "https://36kr.com/p/3470589412726406?f=rss"
+      "title": "对话泰国首家独角兽创始人：从孤儿到30亿美元CEO的逆天改命",
+      "summary": "泰国华裔企业家李发顺创立的闪电达（Flash Express）四年内估值达21亿美元，成为泰国首家独角兽，其创业故事被改编为热播剧《疯狂独角兽》，展现了他从底层逆袭、引入中国模式重塑泰国物流业的传奇经历。",
+      "link": "https://36kr.com/p/3471568169457032?f=rss"
     },
     {
-      "title": "恒大「最值钱」的资产终于要卖了",
-      "summary": "恒大物业获多方收购意向，股价一度涨超38%，但估值仍受母公司债务拖累，隐性债务或成交易关键。",
-      "link": "https://36kr.com/p/3470576898676355?f=rss"
+      "title": "融资数亿、核心技术全自研，这家卫星通信厂商打破海外垄断｜潜伏独角兽",
+      "summary": "中国卫星通信企业控维通信凭借自主研发的三大系统，在高通量终端市场占有率第一，去年合同额达3亿元，正加速国产化替代并布局车载、无人机等新兴市场。",
+      "link": "https://36kr.com/p/3470742922942087?f=rss"
     },
     {
-      "title": "不差钱的腾讯，也开始借钱了？",
-      "summary": "腾讯时隔四年发行90亿元点心债，市场猜测其或为优化债务结构并支持大规模股份回购，效仿苹果低息融资提升股东回报策略。",
-      "link": "https://36kr.com/p/3470581852099974?f=rss"
+      "title": "LVMH老板探店两家中国“友商”，释放了什么信号？",
+      "summary": "LVMH董事长阿尔诺密集考察中国市场，深入调研老铺黄金与山下有松等本土品牌，释放奢侈品巨头在华战略调整信号，以应对行业低迷与竞争加剧。",
+      "link": "https://36kr.com/p/3470423661204869?f=rss"
     },
     {
-      "title": "圆桌对话：具身智能投资指南：从技术到市场的跨越| 2025年36氪产业未来大会",
-      "summary": "2025年36氪产业未来大会在厦门开幕，聚焦人工智能、低空经济等五大核心赛道，并举办具身智能圆桌对话，探讨行业估值、商业化路径及未来挑战。",
-      "link": "https://36kr.com/p/3467616149722757?f=rss"
+      "title": "8点1氪｜西贝回应“公筷喂狗”事件；美联储宣布降息25个基点；DeepSeek梁文锋论文登上《自然》封面",
+      "summary": "特朗普第四次延长TikTok禁令宽限期至12月16日，美联储降息25个基点，清华学霸吴舰因晒1.67亿元年薪遭美司法部调查，目前处于在逃状态。",
+      "link": "https://36kr.com/p/3471468174464392?f=rss"
     },
     {
-      "title": "产业升级下一局：不拼故事，改拼“精耕”|36氪2025产业未来大会金句集锦",
-      "summary": "2025年36氪产业未来大会在厦门开幕，聚焦人工智能、低空经济等五大硬科技赛道，探讨政资产协同推动产业创新。",
-      "link": "https://36kr.com/p/3470496193516930?f=rss"
+      "title": "特斯联与优必选达成战略合作，将构建下一代智能体机器人｜最前线",
+      "summary": "特斯联与优必选达成战略合作，共同推进“空间智能+具身智能”融合，旨在提升机器人在复杂环境中的感知、决策与协同能力，加速智能体机器人产业化落地。",
+      "link": "https://36kr.com/p/3470819180123527?f=rss"
     },
     {
-      "title": "国产香山 RISC-V 开源处理器有了自己的编译器",
-      "summary": "香山开源社区发布基于LLVM的XSCC 1.0编译器，专为RISC-V处理器优化，支持访存与自动矢量化等微架构性能提升。",
-      "link": "https://www.ithome.com/0/883/720.htm"
+      "title": "鸿蒙智行问界 M8 汽车 ADS 4 备案审批通过，预计明天起推送升级",
+      "summary": "问界M8 ADS 4升级备案已通过，预计明日推送，纯电版交付可视化功能也将于近日上线。",
+      "link": "https://www.ithome.com/0/883/830.htm"
     },
     {
-      "title": "2026 款别克君越将于 9 月 19 日上市：内饰增加新配色、智能交互升级",
-      "summary": "别克2026款君越9月19日上市，内饰升级红黑配色，车机系统升级V5.0版，新增AI语音大模型等功能。",
-      "link": "https://www.ithome.com/0/883/719.htm"
+      "title": "苹果详解 Apple Watch 高血压通知：30 天数据分析出结果，让用户知情潜在风险",
+      "summary": "苹果推出watchOS 26高血压监测功能，通过心率传感器和新算法检测慢性高血压迹象，并提醒用户记录血压数据，但强调该功能仅为健康提示，不能替代专业医疗诊断。",
+      "link": "https://www.ithome.com/0/883/829.htm"
     },
     {
-      "title": "AMD 终止 AMDVLK 开源显卡驱动，拥抱 Mesa RADV 社区项目",
-      "summary": "AMD宣布停止开源AMDVLK驱动，全面转向支持Mesa RADV社区驱动，以整合资源并强化对Linux开源Vulkan生态的投入。",
-      "link": "https://www.ithome.com/0/883/718.htm"
+      "title": "Patriot 博帝推出两款 DRAM-less PCIe 5.0 固态硬盘，顺序读取至高 14GB/s",
+      "summary": "博帝推出两款无DRAM的PCIe 5.0 SSD：Viper PV563读写速度达14GB/s和11GB/s，PA523则为10GB/s和8.5GB/s，均提供1TB至4TB容量选项。",
+      "link": "https://www.ithome.com/0/883/828.htm"
     },
     {
-      "title": "华为 WATCH D2 智能手表获 HarmonyOS 5.1.0.32 升级，新增支持 HRV（心率变异性）数据",
-      "summary": "华为WATCH D2智能手表推送鸿蒙HarmonyOS 5.1.0.32版本更新，新增HRV（心率变异性）监测功能，帮助用户实时了解身体恢复状态与神经系统调节能力。",
-      "link": "https://www.ithome.com/0/883/715.htm"
+      "title": "苹果 iOS 26 新增 20 多项 AI 功能，Apple 智能仍占 7GB 存储",
+      "summary": "苹果iOS 26新增超20项AI功能，存储需求仍维持7GB，未因功能扩展而增加。",
+      "link": "https://www.ithome.com/0/883/826.htm"
     },
     {
-      "title": "郭明錤：预计明年底量产的 OLED 苹果 MacBook Pro 将采用触控屏",
-      "summary": "分析师郭明錤称，苹果计划于2026年底为OLED MacBook Pro配备触控面板，此举可能基于iPad用户行为观察，旨在提升生产力与体验。",
-      "link": "https://www.ithome.com/0/883/700.htm"
+      "title": "Meta 推出雷朋 Display AI 眼镜：自带显示屏、肌电手环交互，799 美元起",
+      "summary": "Meta发布雷朋Display AI眼镜，配备隐藏式显示屏与肌电手环，支持手势交互与社交媒体功能，售价799美元起，9月30日美国开售。",
+      "link": "https://www.ithome.com/0/883/825.htm"
     },
     {
-      "title": "马斯克周末血裁xAI 500人",
-      "summary": "马斯克旗下xAI公司周末裁员500人，占员工总数30%，引发业内震动。",
-      "link": "https://www.qbitai.com/2025/09/333071.html"
-    },
-    {
-      "title": "首个专业级文博景点讲解AI来了，飞猪AI“问一问”推出拍照讲解",
-      "summary": "飞猪推出首个专业级文博景点AI讲解功能，用户拍照即可获取智能讲解服务。",
-      "link": "https://www.qbitai.com/2025/09/333037.html"
-    },
-    {
-      "title": "奇点智能研究院出席GOSIM杭州2025：以AI开源推动治理创新，共建可信智能未来",
-      "summary": "奇点智能研究院亮相GOSIM杭州2025，倡导以开源AI推动治理创新，强调AI应缩小数字鸿沟，赋能全人类共建可信智能未来。",
-      "link": "https://www.qbitai.com/2025/09/333030.html"
-    },
-    {
-      "title": "@CEO，你的下一个私人助理何必是人类",
-      "summary": "AI私人助理实现本地部署，无需人类介入即可开箱即用。",
-      "link": "https://www.qbitai.com/2025/09/333010.html"
-    },
-    {
-      "title": "华为首款旅行车卖31万，1小时大定5千台！北汽：余承东出品必属精品",
-      "summary": "华为首款旅行车尊界S800顶配版售价31万元，上市1小时订单突破5000台，北汽盛赞余承东产品实力。",
-      "link": "https://www.qbitai.com/2025/09/332846.html"
+      "title": "刚刚，DeepSeek-R1论文登上Nature封面，通讯作者梁文锋",
+      "summary": "DeepSeek-R1登顶Nature封面，梁文锋团队突破AI推理能力瓶颈。",
+      "link": "https://www.jiqizhixin.com/articles/2025-09-18"
     },
     {
       "title": "没想到，音频大模型开源最彻底的，居然是小红书",
-      "summary": "小红书开源音频大模型，成行业开源力度最大平台。",
+      "summary": "小红书开源音频大模型，成为行业内开源程度最高的平台。",
       "link": "https://www.jiqizhixin.com/articles/2025-09-17-10"
     },
     {
       "title": "6.1B打平40B Dense模型，蚂蚁开源最新MoE模型Ling-flash-2.0",
-      "summary": "蚂蚁集团开源MoE模型Ling-flash-2.0，仅用6.1B参数实现与40B密集模型相当的性能，大幅提升计算效率。",
+      "summary": "蚂蚁集团开源MoE模型Ling-flash-2.0，仅用6.1B参数实现与40B密集模型相当的性能。",
       "link": "https://www.jiqizhixin.com/articles/2025-09-17-9"
     },
     {
       "title": "「AI助手」真来了？谷歌牵头推进Agent支付协议AP2",
-      "summary": "谷歌牵头推进Agent支付协议AP2，AI助手或将实现自主支付功能。",
+      "summary": "谷歌牵头推进AP2支付协议，AI助手或将实现自主交易，智能代理时代加速到来。",
       "link": "https://www.jiqizhixin.com/articles/2025-09-17-8"
     },
     {
       "title": "腾讯AI Lab首创RL框架Parallel-R1，教大模型学会「并行思维」",
-      "summary": "腾讯AI Lab推出全球首个并行强化学习框架Parallel-R1，助力大模型实现高效并行推理与决策。",
+      "summary": "腾讯AI Lab推出创新强化学习框架Parallel-R1，首次实现大模型并行思维训练，显著提升AI决策效率。",
       "link": "https://www.jiqizhixin.com/articles/2025-09-17-7"
-    },
-    {
-      "title": "阿里开源通义DeepResearch，性能超OpenAI、DeepSeek旗舰模型",
-      "summary": "阿里发布开源AI模型通义DeepResearch，性能超越OpenAI和DeepSeek旗舰产品，推动大模型技术竞争升级。",
-      "link": "https://www.jiqizhixin.com/articles/2025-09-17-6"
     }
   ],
   "en": [
     {
-      "title": "The Wacom One, now one size bigger",
-      "summary": "Wacom推出14英寸入门级创意平板，专为学生和爱好者设计，提供更大数字画布用于绘图和编辑。",
-      "link": "https://www.theverge.com/news/779738/wacom-one-14-display-tablet-price-availability"
+      "title": "Meta Connect 2025: the 6 biggest announcements",
+      "summary": "Meta Connect大会发布多款可穿戴设备与软件更新，包括新款Ray-Ban智能眼镜及VR/AR领域创新成果。",
+      "link": "https://www.theverge.com/news/780087/meta-connect-2025-ray-ban-oakley-biggest-announcements"
     },
     {
-      "title": "Business Insider reportedly tells journalists they can use AI to draft stories",
-      "summary": "Business Insider allows journalists to use AI for drafting articles without notifying readers, becoming one of the first major outlets to formally adopt such a policy.",
-      "link": "https://www.theverge.com/news/779739/business-insider-ai-writing-stories"
+      "title": "Meta&#8217;s Ray-Ban Gen 2 and Oakley Vanguard glasses are available to preorder",
+      "summary": "Meta发布新款高端智能眼镜Meta Ray-Ban Display，售价799.99美元，内置镜片显示屏，可通过配套的Meta Neural Band腕带进行手势控制，并支持与手机配对使用。",
+      "link": "https://www.theverge.com/tech/780353/meta-ray-ban-display-oakley-vanguard-preorder-price-how-to-buy"
     },
     {
-      "title": "Can Luigi Mangione get too big to jail?",
-      "summary": "科技巨头谋杀案开庭在即，狂热围观者提前两天露宿排队等候入场。",
-      "link": "https://www.theverge.com/report/779351/luigi-mangione-hearing-new-york-social-media-ecosystem"
+      "title": "Meta is bringing an all-in-one movie and TV streaming hub to Quest headsets",
+      "summary": "Meta推出Horizon TV中心，整合Prime Video、Peacock、Twitch及Disney Plus等流媒体应用，提升Quest头显观影体验。",
+      "link": "https://www.theverge.com/news/780492/meta-quest-headset-horizon-tv-streaming"
     },
     {
-      "title": "Sam Altman says ChatGPT will stop talking about suicide with teens",
-      "summary": "OpenAI CEO Sam Altman acknowledged the challenge of balancing privacy, freedom, and teen safety in AI development, just hours before a Senate hearing on the risks of AI chatbots.",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/779053/sam-altman-says-chatgpt-will-stop-talking-about-suicide-with-teens"
+      "title": "Meta is making the metaverse look better",
+      "summary": "Meta升级社交平台Horizon Worlds，推出全新游戏引擎提升画质，并发布Meta Horizon Studio编辑器，助力创作者打造定制化VR体验。",
+      "link": "https://www.theverge.com/news/780256/meta-horizon-worlds-engine-studio"
     },
     {
-      "title": "Charlie Kirk’s death got complicated by gamer brainrot",
-      "summary": "Regulator warns that video game memes in Tyler Robinson case are misleading distractions from actual motives.",
-      "link": "https://www.theverge.com/column/778988/charlie-kirk-tyler-robinson-online-regulator"
+      "title": "Meta will let you use a Quest VR headset to turn your real-world space into a virtual world",
+      "summary": "Meta推出\"Hyperscape\"技术，用户可通过Quest VR头显扫描真实空间并生成逼真数字复制场景，今日起逐步开放测试。",
+      "link": "https://www.theverge.com/news/780044/meta-quest-metaverse-hyperscape-capture-vr"
     },
     {
-      "title": "A record supply load won’t reach the International Space Station as scheduled",
-      "summary": "SpaceX cargo mission to ISS delayed after premature engine shutdown during launch.",
-      "link": "https://arstechnica.com/space/2025/09/a-record-supply-load-wont-reach-the-international-space-station-as-scheduled/"
+      "title": "You can hold on to your butts thanks to DNA that evolved in fish",
+      "summary": "科学家发现，人类手指的进化可能与鱼类祖先的泄殖腔基因有关，这一发现揭示了四肢发育的古老遗传基础。",
+      "link": "https://arstechnica.com/science/2025/09/distinct-digits-may-have-evolved-by-using-dna-that-makes-the-cloaca/"
     },
     {
-      "title": "“China keeps the algorithm”: Critics attack Trump’s TikTok deal",
-      "summary": "特朗普TikTok协议要求美国开发独立版本，引发算法控制权争议。",
-      "link": "https://arstechnica.com/tech-policy/2025/09/china-keeps-the-algorithm-critics-attack-trumps-tiktok-deal/"
+      "title": "White House officials reportedly frustrated by Anthropic’s law enforcement AI limits",
+      "summary": "白宫官员对Anthropic公司限制执法部门使用AI工具表示不满，称其Claude聊天机器人政策阻碍了FBI和特勤局承包商的工作。",
+      "link": "https://arstechnica.com/ai/2025/09/white-house-officials-reportedly-frustrated-by-anthropics-law-enforcement-ai-limits/"
     },
     {
-      "title": "Repeat creepy meat problems at Boar’s Head plants draw congressional scrutiny",
-      "summary": "Boar's Head工厂因致命食品安全问题重启，引发国会调查。",
-      "link": "https://arstechnica.com/health/2025/09/repeat-creepy-meat-problems-at-boars-head-plants-draw-congressional-scrutiny/"
+      "title": "RFK Jr.’s anti-vaccine delusions—not science—steer CDC now, ex-director testifies",
+      "summary": "前疾控中心主任警告国会，反疫苗言论正影响公共卫生决策。",
+      "link": "https://arstechnica.com/health/2025/09/rfk-jrs-anti-vaccine-delusions-not-science-steer-cdc-now-ex-director-testifies/"
     },
     {
-      "title": "An antidote to fat, heavy cars? Check out these lightweighting awards.",
-      "summary": "新型轻量化技术突破：AI设计防撞结构、超薄隔音涂层和可回收粘合剂等创新方案，助力汽车减重节能。",
-      "link": "https://arstechnica.com/cars/2025/09/an-antidote-to-fat-heavy-cars-check-out-these-lightweighting-awards/"
+      "title": "Why, as a responsible adult, SimCity 2000 hits differently",
+      "summary": "成年玩家重玩《模拟城市2000》后产生共鸣：真实人生经历让虚拟城市管理更具情感深度。",
+      "link": "https://arstechnica.com/gaming/2025/09/thirty-years-later-simcity-2000-hasnt-changed-but-i-have/"
     },
     {
-      "title": "Mods react as Reddit kicks some of them out again: “This will break the site”",
-      "summary": "Reddit再度移除部分版主引发强烈反弹，受影响者虽仅占活跃版主的0.1%，但抗议者警告此举将严重破坏网站生态。",
-      "link": "https://arstechnica.com/gadgets/2025/09/mods-react-as-reddit-kicks-some-of-them-out-again-this-will-break-the-site/"
+      "title": "Trump admin says Social Security database wasn’t “leaked, hacked, or shared”",
+      "summary": "特朗普政府坚称社保数据库未遭泄露、黑客入侵或共享，回应参议院关于NUMIDENT系统安全的质疑。",
+      "link": "https://arstechnica.com/tech-policy/2025/09/trump-admin-denies-doge-put-social-security-data-into-insecure-cloud-system/"
+    },
+    {
+      "title": "AI-designed viruses are here and already killing bacteria",
+      "summary": "加州研究团队利用AI成功设计出能复制并杀死细菌的合成病毒基因组，标志着人工智能首次具备功能性基因组合成能力。",
+      "link": "https://www.technologyreview.com/2025/09/17/1123801/ai-virus-bacteriophage-life/"
+    },
+    {
+      "title": "The Download: measuring returns on R&D, and AI’s creative potential",
+      "summary": "面对美国联邦科研经费大幅削减，如何衡量研发投入的回报成为关键议题。",
+      "link": "https://www.technologyreview.com/2025/09/17/1123795/the-download-measuring-returns-on-rd-and-ais-creative-potential/"
     },
     {
       "title": "How to measure the returns on R&D spending",
-      "summary": "美国联邦科学基金大幅削减，MIT科技评论解析预算紧缩对科研未来的影响。",
+      "summary": "美国联邦科学基金大幅削减，MIT科技评论深度解析预算削减对科研未来的影响。",
       "link": "https://www.technologyreview.com/2025/09/17/1123760/how-to-measure-the-returns-to-rd-spending/"
     },
     {
       "title": "De-risking investment in AI agents",
-      "summary": "新一代“自主AI”系统正推动自动化向更高水平发展，能够自主规划、行动并适应目标，重塑客户体验格局。",
+      "summary": "新一代“代理型AI”正重塑客户体验，能自主规划、行动并适应目标的智能系统将自动化推向新高度。",
       "link": "https://www.technologyreview.com/2025/09/16/1123592/de-risking-investment-in-ai-agents/"
     },
     {
       "title": "The Download: regulators are coming for AI companions, and meet our Innovator of 2025",
-      "summary": "AI伴侣应用面临监管收紧，专家警告其可能引发情感依赖与社会风险。",
+      "summary": "AI伴侣应用面临监管收紧，专家担忧其对人类情感和社会结构的潜在影响。",
       "link": "https://www.technologyreview.com/2025/09/16/1123695/the-download-regulators-are-coming-for-ai-companions-and-meet-our-innovator-of-2025/"
     },
     {
-      "title": "The looming crackdown on AI companionship",
-      "summary": "儿童与AI形成不健康依赖关系成为新焦点，推动AI安全议题从学术圈走向公众视野。",
-      "link": "https://www.technologyreview.com/2025/09/16/1123614/the-looming-crackdown-on-ai-companionship/"
+      "title": "Meta launches Hyperscape, technology to turn real-world spaces into VR",
+      "summary": "Meta推出Hyperscape测试版，用户可将现实空间转化为VR虚拟场景，开启沉浸式体验新可能。",
+      "link": "https://techcrunch.com/2025/09/17/meta-launches-hyperscape-technology-to-turn-real-world-spaces-into-vr/"
     },
     {
-      "title": "The Download: computing’s bright young minds, and cleaning up satellite streaks",
-      "summary": "MIT Technology Review今日公布年度“35岁以下创新者”名单，表彰全球35位青年科技领袖在推动科学进步和解决关键难题方面的杰出贡献。",
-      "link": "https://www.technologyreview.com/2025/09/15/1123608/the-download-computings-bright-young-minds-and-cleaning-up-satellite-streaks/"
+      "title": "Meta unveils new smart glasses with a display and wristband controller",
+      "summary": "Meta unveils AI smart glasses with display and wristband control at 2025 Connect event.",
+      "link": "https://techcrunch.com/2025/09/17/meta-unveils-new-smart-glasses-with-a-display-and-wristband-controller/"
     },
     {
-      "title": "India’s Urban Company soars 58% above IPO price in year’s most subscribed offering",
-      "summary": "Urban Company IPO获超百倍认购，投资者热情高涨。",
-      "link": "https://techcrunch.com/2025/09/16/indias-urban-company-soars-58-above-ipo-price-in-years-most-subscribed-offering/"
+      "title": "Meta unveils its new Oakley Meta Vanguard smart glasses for athletes",
+      "summary": "Meta发布专为运动员设计的Oakley Meta Vanguard智能眼镜，面向跑步、骑行等运动场景。",
+      "link": "https://techcrunch.com/2025/09/17/meta-unveils-its-new-oakley-meta-vanguard-smart-glasses-for-athletes/"
     },
     {
-      "title": "Groww, backed by Satya Nadella, set to become first Indian startup to go public after U.S.-to-India move",
-      "summary": "Groww即将上市，全球风投基金迎来大规模退出窗口。",
-      "link": "https://techcrunch.com/2025/09/16/groww-backed-by-satya-nadella-set-to-become-first-indian-startup-to-go-public-after-u-s-to-india-move/"
+      "title": "Nvidia AI chip challenger Groq raises even more than expected, hits $6.9B valuation",
+      "summary": "AI芯片创企Groq融资超预期，估值达69亿美元，挑战英伟达市场地位。",
+      "link": "https://techcrunch.com/2025/09/17/nvidia-ai-chip-challenger-groq-raises-even-more-than-expected-hits-6-9b-valuation/"
     },
     {
-      "title": "Al Gore on China’s climate rise: ‘I would not have seen this coming’",
-      "summary": "Al Gore and Lila Preston discuss the environmental implications of rare earth mining, AI's energy-intensive data centers, and the sustainability of space industry rocket launches.",
-      "link": "https://techcrunch.com/2025/09/16/al-gore-on-chinas-climate-rise-i-would-not-have-seen-this-coming/"
-    },
-    {
-      "title": "Meta Connect 2025: What to expect and how to watch",
-      "summary": "Meta即将推出新一代AI智能眼镜及手势识别腕带，进一步拓展人机交互边界。",
-      "link": "https://techcrunch.com/2025/09/16/meta-connect-2025-what-to-expect-and-how-to-watch/"
-    },
-    {
-      "title": "Same-day delivery comes to space, as Impulse promises satellite transport in hours, not months",
-      "summary": "太空物流迎来革命性突破，Impulse Space公司推出数小时内送达的卫星速递服务，颠覆传统数月交付模式。",
-      "link": "https://techcrunch.com/2025/09/16/same-day-delivery-comes-to-space-as-impulse-promises-satellite-transport-in-hours-not-months/"
+      "title": "Eric Baker’s long, winding road to taking StubHub public",
+      "summary": "StubHub首日股价下跌6%，但IPO成功标志着创始人25年创业历程的里程碑。",
+      "link": "https://techcrunch.com/2025/09/17/eric-bakers-long-winding-road-to-taking-stubhub-public/"
     }
   ]
 }
