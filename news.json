@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026年01月17日 10:49",
+  "updated_at": "2026年01月17日 18:28",
   "zh": [
+    {
+      "title": "科大讯飞推出SuperAgent应用框架，驱动营销关系演进至B2A2C丨最前线",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://36kr.com/p/3642948995862405?f=rss"
+    },
     {
       "title": "头部物流公司拿下浙江投资，要用AI完成中大件门到门履约｜36氪首发",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
@@ -22,34 +27,29 @@
       "link": "https://36kr.com/p/3641730074300038?f=rss"
     },
     {
-      "title": "B站也推出了新的广告+AI工具，未来会从“开环”走向“闭环”",
+      "title": "七工匠推出 75mm f/1.25 Mark II 全画幅手动对焦镜头，适配徕卡 M 卡口",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://36kr.com/p/3640520932560006?f=rss"
+      "link": "https://www.ithome.com/0/914/132.htm"
     },
     {
-      "title": "显示单元模块化，玄景 MLVision 发布首款硬件可持续升级 AR 眼镜 M6",
+      "title": "百度萝卜快跑登陆阿布扎比，开启海外全无人驾驶商业化运营",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/0/914/026.htm"
+      "link": "https://www.ithome.com/0/914/121.htm"
     },
     {
-      "title": "PC 版《怪物猎人：荒野》游戏测试确认“氪金变强”BUG：修复后性能最高提升 25.6%",
+      "title": "免费坐 3 年公交地铁，福建福州延长“新福卡”应届毕业生优惠政策",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/0/914/025.htm"
+      "link": "https://www.ithome.com/0/914/119.htm"
     },
     {
-      "title": "AMD Ryzen 9 9950X3D2 处理器曝光：192MB L3 缓存怪兽，性能比 X3D 版高约 7%",
+      "title": "更多英特尔酷睿 2x3PE 处理器确认，应属 \"Bartlett Lake 12P\" 系列",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/0/914/023.htm"
+      "link": "https://www.ithome.com/0/914/118.htm"
     },
     {
-      "title": "微软媒体创建工具更新 Win11 镜像，集成 1 月最新补丁",
+      "title": "爱奇艺首个线下乐园开票 ：早鸟预售 159 元，2 月 8 日开园",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/0/914/021.htm"
-    },
-    {
-      "title": "掏空收购目标躲避反垄断审查，美 FTC 开查科技巨头“人才收购”",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/0/914/020.htm"
+      "link": "https://www.ithome.com/0/914/116.htm"
     },
     {
       "title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
@@ -77,32 +77,37 @@
       "link": "https://www.qbitai.com/2026/01/369931.html"
     },
     {
+      "title": "AI 视频生成时代，留给人类的只有演技？",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://www.jiqizhixin.com/articles/2026-01-17-4"
+    },
+    {
+      "title": "贴广告的ChatGPT，一夜之间让全球网友破了防",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://www.jiqizhixin.com/articles/2026-01-17-3"
+    },
+    {
+      "title": "开源8300小时标注数据，新一代实时通用游戏AI Pixel2Play发布",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://www.jiqizhixin.com/articles/2026-01-17-2"
+    },
+    {
+      "title": "大模型听懂语音却反而变笨？港中深与微软联合解决语音大模型降智问题",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://www.jiqizhixin.com/articles/2026-01-17"
+    },
+    {
       "title": "面向临床的心电图AI，上智院、复旦等提出CLEAR-HUG框架实现诊断性能与可解释性双突破",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
       "link": "https://www.jiqizhixin.com/articles/2026-01-16-10"
-    },
-    {
-      "title": "神同步OpenAI！中国团队Deep Principle领衔发布LLMs for Science评测，引爆外网",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.jiqizhixin.com/articles/2026-01-16-9"
-    },
-    {
-      "title": "美团又上新模型，8个Thinker齐开工，能顶个诸葛亮？",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.jiqizhixin.com/articles/2026-01-16-8"
-    },
-    {
-      "title": "失去三个联创后，Mira公司危机持续：又有两人要出走",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.jiqizhixin.com/articles/2026-01-16-7"
-    },
-    {
-      "title": "不止于量化：最新综述用「时-空-构」三维视角解构KV Cache系统级优化",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.jiqizhixin.com/articles/2026-01-16-6"
     }
   ],
   "en": [
+    {
+      "title": "TCL’s PlayCube projector is more fun than a Rubik’s Cube",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://www.theverge.com/reviews/863910/tcl-playcube-portable-projector-review-battery"
+    },
     {
       "title": "The best deals on MacBooks right now",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
@@ -124,9 +129,9 @@
       "link": "https://www.theverge.com/news/863597/fortnite-creators-steal-the-brainrot-prize-wheel-spins-block"
     },
     {
-      "title": "Google brings its AI videomaker to Workspace users",
+      "title": "Managers on alert for “launch fever” as pressure builds for NASA’s Moon mission",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.theverge.com/news/863570/google-flow-ai-video-generator-workspace"
+      "link": "https://arstechnica.com/space/2026/01/managers-on-alert-for-launch-fever-as-pressure-builds-for-nasas-moon-mission/"
     },
     {
       "title": "Rackspace customers grapple with “devastating” email hosting price hike",
@@ -147,11 +152,6 @@
       "title": "This may be the grossest eye pic ever—but the cause is what’s truly horrifying",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
       "link": "https://arstechnica.com/features/2026/01/this-may-be-the-grossest-eye-pic-ever-but-the-cause-is-whats-truly-horrifying/"
-    },
-    {
-      "title": "OpenAI to test ads in ChatGPT as it burns through billions",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://arstechnica.com/information-technology/2026/01/openai-to-test-ads-in-chatgpt-as-it-burns-through-billions/"
     },
     {
       "title": "The Download: cut through AI coding hype, and biotech trends to watch",
@@ -179,6 +179,11 @@
       "link": "https://www.technologyreview.com/2026/01/15/1131348/climate-technologies-2026/"
     },
     {
+      "title": "Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/"
+    },
+    {
       "title": "AI cloud startup Runpod hits $120M in ARR — and it started with a Reddit post",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
       "link": "https://techcrunch.com/2026/01/16/ai-cloud-startup-runpod-hits-120m-in-arr-and-it-started-with-a-reddit-post/"
@@ -197,11 +202,6 @@
       "title": "TikTok quietly launches a microdrama app called ‘PineDrama’",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
       "link": "https://techcrunch.com/2026/01/16/tiktok-quietly-launches-a-micro-drama-app-called-pinedrama/"
-    },
-    {
-      "title": "EPA rules that xAI’s natural gas generators were illegally used",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://techcrunch.com/2026/01/16/epa-rules-that-xais-natural-gas-generators-were-illegally-used/"
     }
   ]
 }
