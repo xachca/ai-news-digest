@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026年02月12日 11:40",
+  "updated_at": "2026年02月12日 18:55",
   "zh": [
+    {
+      "title": "氪星晚报｜支付宝AI付笔数超1.2亿；京东外卖：近400家餐饮品牌订单量突破百万；雷军：小米YU 7今年1月份销量37869台",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://36kr.com/p/3680069763313539?f=rss"
+    },
     {
       "title": "36氪首发｜农业具身智能企业拿到新融资，估值达5亿元",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
@@ -22,34 +27,44 @@
       "link": "https://36kr.com/p/3678730750108295?f=rss"
     },
     {
-      "title": "氪星晚报｜千问DAU达到7352万；胖东来创始人于东来宣布年后退休；马斯克酝酿在月球造AI卫星工厂",
+      "title": "全球首颗！香港中文大学“港中大一号”卫星把 DeepSeek 大语言模型搬上太空",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://36kr.com/p/3678716706825096?f=rss"
+      "link": "https://www.ithome.com/0/921/489.htm"
     },
     {
-      "title": "马自达 6e 纯电轿车登陆英国市场，售价为中国同款车型的 2.3 倍",
+      "title": "影石 CEO 刘靖康回应年会送房送车：直接的物质激励也很重要",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/0/921/352.htm"
+      "link": "https://www.ithome.com/0/921/488.htm"
     },
     {
-      "title": "小米开源首代机器人 VLA 大模型 Xiaomi-Robotics-0，刷新多项 SOTA",
+      "title": "东风日产召回 29608 辆奇骏汽车，行驶中发动机存在熄火风险",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/0/921/350.htm"
+      "link": "https://www.ithome.com/0/921/487.htm"
     },
     {
-      "title": "SK 海力士探索 H3 混合存储：发挥 HBM 与 HBF 各自优势，优化 AI 推理负载能效",
+      "title": "消息称 OpenAI 为员工定制特殊版 ChatGPT，可扫描聊天记录、电子邮件抓泄密内鬼",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/0/921/344.htm"
+      "link": "https://www.ithome.com/0/921/485.htm"
     },
     {
-      "title": "杰森 · 莫玛主演、林诣彬执导：《绝地潜兵》电影定档 2027",
+      "title": "原荣耀 CEO 赵明官宣加入千里科技：非常荣幸，一个可以奋斗十年的事业",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/0/921/343.htm"
+      "link": "https://www.ithome.com/0/921/484.htm"
     },
     {
-      "title": "国务院办公厅：到 2030 年，基本建成全国统一电力市场体系",
+      "title": "2026拜年别写对联了，让AI替你写首歌吧",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/0/921/342.htm"
+      "link": "https://www.qbitai.com/2026/02/378860.html"
+    },
+    {
+      "title": "Robotaxi首次开进阿布扎比市中心！文远知行携手Uber再拓商业运营版图",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://www.qbitai.com/2026/02/378854.html"
+    },
+    {
+      "title": "高德发布两款ABot系列基座模型，达成全球首个具身操作和具身导航”双SOTA”",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://www.qbitai.com/2026/02/378843.html"
     },
     {
       "title": "神仙打架+1！讯飞星火X2硬核亮相，行业深度全面升级",
@@ -62,44 +77,29 @@
       "link": "https://www.qbitai.com/2026/02/378674.html"
     },
     {
-      "title": "9B端侧开源模型跑通百万上下文，面壁全新稀疏-线性混合注意力架构SALA立功了！",
+      "title": "小红书，再造一个更有「声」命力的社区",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.qbitai.com/2026/02/378512.html"
+      "link": "https://www.jiqizhixin.com/articles/2026-02-12-9"
     },
     {
-      "title": "特斯拉腾讯首次合作，新老Model 3/Y车主爽到了",
+      "title": "DeepAgent与DeepSearch双双霸榜！答案指向openJiuwen这一新兴开源项目",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.qbitai.com/2026/02/378503.html"
+      "link": "https://www.jiqizhixin.com/articles/2026-02-12-8"
     },
     {
-      "title": "史上最长春节假期即将开启，千问APP联合飞猪推出“千问价”",
+      "title": "ICLR 2026 oral | AI代码真能进生产环境？SwingArena：从「写对代码Commit」到「通过CI审查」",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.qbitai.com/2026/02/378498.html"
+      "link": "https://www.jiqizhixin.com/articles/2026-02-12-7"
     },
     {
-      "title": "大晓机器人完成天使轮融资",
+      "title": "刚刚，MOSS孙天祥创业，直播AI4AI大规模科研",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.jiqizhixin.com/articles/2026-02-11-12"
+      "link": "https://www.jiqizhixin.com/articles/2026-02-12-6"
     },
     {
-      "title": "决定了：过年攻略全都不过脑子，让AI去想",
+      "title": "速度提升，能力却暴跌？扩散模型做智能体的残酷真相",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.jiqizhixin.com/articles/2026-02-11-11"
-    },
-    {
-      "title": "马斯克xAI再失联合创始人，12人创始团队已有6人离场",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.jiqizhixin.com/articles/2026-02-11-10"
-    },
-    {
-      "title": "复刻、长语音、对话、指令、音效全覆盖！模思智能推出MOSS-TTS Family！",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.jiqizhixin.com/articles/2026-02-11-9"
-    },
-    {
-      "title": "华为云大动作！马年春节前夕，码道开启万人公测",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.jiqizhixin.com/articles/2026-02-11-8"
+      "link": "https://www.jiqizhixin.com/articles/2026-02-12-5"
     }
   ],
   "en": [
@@ -129,6 +129,11 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/877526/anthropic-ai-electricity-costs-data-center-pledge"
     },
     {
+      "title": "SpaceX takes down Dragon crew arm, giving Starship a leg up in Florida",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://arstechnica.com/space/2026/02/heres-why-americas-most-historic-launch-pad-is-getting-yet-another-facelift/"
+    },
+    {
       "title": "Trump orders the military to make agreements with coal power plants",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
       "link": "https://arstechnica.com/science/2026/02/trumps-latest-plan-to-revive-coal-power-make-the-military-buy-it/"
@@ -149,9 +154,9 @@
       "link": "https://arstechnica.com/gadgets/2026/02/byte-magazine-artist-robert-tinney-who-illustrated-the-birth-of-pcs-dies-at-78/"
     },
     {
-      "title": "Yes, Rocket Lab is blowing up engines. No, it's not a big deal, CEO says.",
+      "title": "What’s next for Chinese open-source AI",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://arstechnica.com/space/2026/02/yes-rocket-lab-is-blowing-up-engines-no-its-not-a-big-deal-ceo-says/"
+      "link": "https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/"
     },
     {
       "title": "Is a secure AI assistant possible?",
@@ -172,11 +177,6 @@
       "title": "A “QuitGPT” campaign is urging people to cancel their ChatGPT subscriptions",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
       "link": "https://www.technologyreview.com/2026/02/10/1132577/a-quitgpt-campaign-is-urging-people-to-cancel-chatgpt-subscriptions/"
-    },
-    {
-      "title": "The Download: Making AI Work, and why the Moltbook hype is similar to Pokémon",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.technologyreview.com/2026/02/10/1132608/the-download-making-ai-work-and-why-the-moltbook-hype-is-similar-to-pokemon/"
     },
     {
       "title": "xAI lays out interplanetary ambitions in public all-hands",
