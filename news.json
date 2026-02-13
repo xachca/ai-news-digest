@@ -1,55 +1,75 @@
 {
-  "updated_at": "2026年02月12日 18:55",
+  "updated_at": "2026年02月13日 11:38",
   "zh": [
     {
-      "title": "氪星晚报｜支付宝AI付笔数超1.2亿；京东外卖：近400家餐饮品牌订单量突破百万；雷军：小米YU 7今年1月份销量37869台",
+      "title": "四年三款爆品，LiberLive U1发布、C系列累计出货超50万台｜最前线",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://36kr.com/p/3680069763313539?f=rss"
+      "link": "https://36kr.com/p/3681146132836226?f=rss"
     },
     {
-      "title": "36氪首发｜农业具身智能企业拿到新融资，估值达5亿元",
+      "title": "畜牧业具身智能公司完成千万元融资，天空工场创投基金孵化｜硬氪首发",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://36kr.com/p/3679698824179586?f=rss"
+      "link": "https://36kr.com/p/3681060245581448?f=rss"
     },
     {
-      "title": "巨兽出山，围堵大疆",
+      "title": "商业航天核心硬件供应商获近亿元融资，团队来自中科院｜硬氪首发",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://36kr.com/p/3679665748225672?f=rss"
+      "link": "https://36kr.com/p/3681056499642245?f=rss"
     },
     {
-      "title": "8点1氪丨胖东来创始人于东来宣布年后退休，账号改名“傻坏蛋”；华住会被消协约谈；缅甸出现新诈骗园区，距KK园区五公里",
+      "title": "8点1氪丨美司法部长拒向爱泼斯坦案幸存者道歉；影石CEO回应年会送房；12306新增“低人一等座”提醒",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://36kr.com/p/3679560358915719?f=rss"
+      "link": "https://36kr.com/p/3680980301885317?f=rss"
     },
     {
-      "title": "耐克要在中国市场发力了",
+      "title": "这家机器人公司把“具身数据”塞进1万个背包里",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://36kr.com/p/3678730750108295?f=rss"
+      "link": "https://36kr.com/p/3680210722254473?f=rss"
     },
     {
-      "title": "全球首颗！香港中文大学“港中大一号”卫星把 DeepSeek 大语言模型搬上太空",
+      "title": "日产汽车预计 2025 财年净亏损 6500 亿日元，全球销售 320 万辆",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/0/921/489.htm"
+      "link": "https://www.ithome.com/0/921/609.htm"
     },
     {
-      "title": "影石 CEO 刘靖康回应年会送房送车：直接的物质激励也很重要",
+      "title": "微软媒体创建工具更新 Win11 镜像，集成 2 月最新补丁",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/0/921/488.htm"
+      "link": "https://www.ithome.com/0/921/608.htm"
     },
     {
-      "title": "东风日产召回 29608 辆奇骏汽车，行驶中发动机存在熄火风险",
+      "title": "开源压缩工具 7-Zip 26.00 正式版发布：改进 RAR 等多格式兼容性，支持超 64 线程基准测试",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/0/921/487.htm"
+      "link": "https://www.ithome.com/0/921/606.htm"
     },
     {
-      "title": "消息称 OpenAI 为员工定制特殊版 ChatGPT，可扫描聊天记录、电子邮件抓泄密内鬼",
+      "title": "中国汽车流通协会：1 月全国二手车市场交易量 172.92 万辆，同比增长 18.33%",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/0/921/485.htm"
+      "link": "https://www.ithome.com/0/921/605.htm"
     },
     {
-      "title": "原荣耀 CEO 赵明官宣加入千里科技：非常荣幸，一个可以奋斗十年的事业",
+      "title": "巴塞罗那 Zettascale 实验室：Intel 3 制程 RISC-V 芯片 TC1 通过验证",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/0/921/484.htm"
+      "link": "https://www.ithome.com/0/921/604.htm"
+    },
+    {
+      "title": "小米的首代机器人VLA大模型来了！丝滑赛德芙，推理延迟仅80ms丨全面开源",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://www.qbitai.com/2026/02/379326.html"
+    },
+    {
+      "title": "这个春节P图不求人！小红书开源图像编辑新SOTA",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://www.qbitai.com/2026/02/379263.html"
+    },
+    {
+      "title": "华为升级行业Agent算法架构！MindScale自己写prompt和工作流，KV Cache减少5.7倍token",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://www.qbitai.com/2026/02/379256.html"
+    },
+    {
+      "title": "荣耀前CEO赵明，被曝加入千里科技",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://www.qbitai.com/2026/02/379246.html"
     },
     {
       "title": "2026拜年别写对联了，让AI替你写首歌吧",
@@ -57,24 +77,14 @@
       "link": "https://www.qbitai.com/2026/02/378860.html"
     },
     {
-      "title": "Robotaxi首次开进阿布扎比市中心！文远知行携手Uber再拓商业运营版图",
+      "title": "具身智能的「GPT时刻」？高德连发两个全面SOTA的ABot具身基座模型",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.qbitai.com/2026/02/378854.html"
+      "link": "https://www.jiqizhixin.com/articles/2026-02-12-11"
     },
     {
-      "title": "高德发布两款ABot系列基座模型，达成全球首个具身操作和具身导航”双SOTA”",
+      "title": "Loop-ViT：让AI学会「反复思考」，3.8M参数小模型追平人类平均水平",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.qbitai.com/2026/02/378843.html"
-    },
-    {
-      "title": "神仙打架+1！讯飞星火X2硬核亮相，行业深度全面升级",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.qbitai.com/2026/02/378796.html"
-    },
-    {
-      "title": "2025具身智能创投全景：554亿热钱，4大估值梯队，10亿元现金流门槛｜量子位智库报告",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.qbitai.com/2026/02/378674.html"
+      "link": "https://www.jiqizhixin.com/articles/2026-02-12-10"
     },
     {
       "title": "小红书，再造一个更有「声」命力的社区",
@@ -90,68 +100,73 @@
       "title": "ICLR 2026 oral | AI代码真能进生产环境？SwingArena：从「写对代码Commit」到「通过CI审查」",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
       "link": "https://www.jiqizhixin.com/articles/2026-02-12-7"
-    },
-    {
-      "title": "刚刚，MOSS孙天祥创业，直播AI4AI大规模科研",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.jiqizhixin.com/articles/2026-02-12-6"
-    },
-    {
-      "title": "速度提升，能力却暴跌？扩散模型做智能体的残酷真相",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.jiqizhixin.com/articles/2026-02-12-5"
     }
   ],
   "en": [
     {
-      "title": "Highguard’s developer reportedly lays off ‘most’ of its staff just over two weeks after launch",
+      "title": "A surprise God of War prequel is out on the PS5 right now",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.theverge.com/games/877674/highguard-wildlight-entertainment-layoffs"
+      "link": "https://www.theverge.com/games/878375/god-of-war-sons-of-sparta-trilogy-sony-playstation-ps5-release-date-trailer"
     },
     {
-      "title": "Two more xAI co-founders are among those leaving after the SpaceX merger",
+      "title": "Ring cancels its partnership with Flock Safety after surveillance backlash",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/877609/two-more-xai-co-founders-are-among-those-leaving-after-the-spacex-merger"
+      "link": "https://www.theverge.com/news/878447/ring-flock-partnership-canceled"
     },
     {
-      "title": "iOS 26.3 makes it easier to switch to Android",
+      "title": "PlayStation State of Play February 2026: all the news and trailers",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.theverge.com/tech/877587/ios-26-3-released-transfer-to-android"
+      "link": "https://www.theverge.com/games/877875/playstation-state-of-play-february-2026-ps5-news-trailers"
     },
     {
-      "title": "The Verge’s 2026 Valentine’s Day gift guide (for him)",
+      "title": "In one swoop, Trump kills US greenhouse gas regulations",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.theverge.com/gadgets/865396/valentines-day-2026-gift-ideas-for-him-boyfriend-husband-partner"
+      "link": "https://www.theverge.com/science/877371/trump-carbon-pollution-endangerment-finding-repeal-climate-change"
     },
     {
-      "title": "Anthropic says it&#8217;ll try to keep its data centers from raising electricity costs",
+      "title": "Two powerful, OLED-equipped gaming laptops are hundreds off",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/877526/anthropic-ai-electricity-costs-data-center-pledge"
+      "link": "https://www.theverge.com/gadgets/878209/asus-acer-oled-rtx-5070ti-gaming-laptop-deal-sale"
     },
     {
-      "title": "SpaceX takes down Dragon crew arm, giving Starship a leg up in Florida",
+      "title": "When Amazon badly needed a ride, Europe's Ariane 6 rocket delivered",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://arstechnica.com/space/2026/02/heres-why-americas-most-historic-launch-pad-is-getting-yet-another-facelift/"
+      "link": "https://arstechnica.com/space/2026/02/when-amazon-badly-needed-a-ride-europes-ariane-6-rocket-delivered/"
     },
     {
-      "title": "Trump orders the military to make agreements with coal power plants",
+      "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://arstechnica.com/science/2026/02/trumps-latest-plan-to-revive-coal-power-make-the-military-buy-it/"
+      "link": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/"
     },
     {
-      "title": "El Paso airport closed after military used new anti-drone laser to zap party balloon",
+      "title": "Trump official overruled FDA scientists to reject Moderna's flu shot",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://arstechnica.com/space/2026/02/el-paso-airport-closed-after-military-used-new-anti-drone-laser-to-zap-party-balloon/"
+      "link": "https://arstechnica.com/health/2026/02/trump-official-overruled-fda-scientists-to-reject-modernas-flu-shot/"
     },
     {
-      "title": "Once-hobbled Lumma Stealer is back with lures that are hard to resist",
+      "title": "Spider-Noir teaser comes in colorized \"True Hue\" and black and white",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://arstechnica.com/security/2026/02/once-hobbled-lumma-stealer-is-back-with-lures-that-are-hard-to-resist/"
+      "link": "https://arstechnica.com/culture/2026/02/spider-noir-teaser-comes-in-colorized-true-hue-and-black-and-white/"
     },
     {
-      "title": "Byte magazine artist Robert Tinney, who illustrated the birth of PCs, dies at 78",
+      "title": "ULA's Vulcan rocket suffers another booster problem on the way to orbit",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://arstechnica.com/gadgets/2026/02/byte-magazine-artist-robert-tinney-who-illustrated-the-birth-of-pcs-dies-at-78/"
+      "link": "https://arstechnica.com/space/2026/02/ulas-vulcan-launcher-still-has-a-solid-rocket-booster-problem/"
+    },
+    {
+      "title": "The Download: AI-enhanced cybercrime, and secure AI assistants",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://www.technologyreview.com/2026/02/12/1132819/the-download-ai-enhanced-cybercrime-and-secure-ai-assistants/"
+    },
+    {
+      "title": "AI is already making online crimes easier. It could get much worse.",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/"
+    },
+    {
+      "title": "Why EVs are gaining ground in Africa",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://www.technologyreview.com/2026/02/12/1132790/evs-progress-africa/"
     },
     {
       "title": "What’s next for Chinese open-source AI",
@@ -164,44 +179,29 @@
       "link": "https://www.technologyreview.com/2026/02/11/1132768/is-a-secure-ai-assistant-possible/"
     },
     {
-      "title": "The Download: inside the QuitGPT movement, and EVs in Africa",
+      "title": "For $1M, you can pay Bryan Johnson (or BryanAI?) to teach you how to live longer",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.technologyreview.com/2026/02/11/1132724/the-download-inside-the-quitgpt-movement-and-evs-in-africa/"
+      "link": "https://techcrunch.com/2026/02/12/for-1-million-you-can-pay-bryan-johnson-or-bryanai-to-teach-you-how-to-live-longer/"
     },
     {
-      "title": "EVs could be cheaper to own than gas cars in Africa by 2040",
+      "title": "Amid disappointing earnings, Pinterest claims it sees more searches than ChatGPT",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.technologyreview.com/2026/02/11/1132714/evs-africa-cost/"
+      "link": "https://techcrunch.com/2026/02/12/amid-disappointing-earnings-pinterest-claims-it-sees-more-searches-than-chatgpt/"
     },
     {
-      "title": "A “QuitGPT” campaign is urging people to cancel their ChatGPT subscriptions",
+      "title": "IBM will hire your entry-level talent in the age of AI",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.technologyreview.com/2026/02/10/1132577/a-quitgpt-campaign-is-urging-people-to-cancel-chatgpt-subscriptions/"
+      "link": "https://techcrunch.com/2026/02/12/ibm-will-hire-your-entry-level-talent-in-the-age-of-ai/"
     },
     {
-      "title": "xAI lays out interplanetary ambitions in public all-hands",
+      "title": "Rivian was saved by software in 2025",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands/"
+      "link": "https://techcrunch.com/2026/02/12/rivian-was-saved-by-software-in-2025/"
     },
     {
-      "title": "AI inference startup Modal Labs in talks to raise at $2.5B valuation, sources say",
+      "title": "Musk needed a new vision for SpaceX and xAI. He landed on Moonbase Alpha.",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://techcrunch.com/2026/02/11/ai-inference-startup-modal-labs-in-talks-to-raise-at-2-5b-valuation-sources-say/"
-    },
-    {
-      "title": "OpenAI disbands mission alignment team",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://techcrunch.com/2026/02/11/openai-disbands-mission-alignment-team-which-focused-on-safe-and-trustworthy-ai-development/"
-    },
-    {
-      "title": "Apple’s Siri revamp reportedly delayed… again",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/"
-    },
-    {
-      "title": "Uber Eats launches AI assistant to help with grocery cart creation",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://techcrunch.com/2026/02/11/uber-eats-launches-ai-assistant-to-help-with-grocery-cart-creation/"
+      "link": "https://techcrunch.com/2026/02/12/musk-needed-a-new-vision-for-spacex-and-xai-he-landed-on-moonbase-alpha/"
     }
   ]
 }
