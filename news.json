@@ -1,82 +1,137 @@
 {
-  "updated_at": "2026年05月13日 20:48",
+  "updated_at": "2026年05月14日 12:40",
   "zh": [
+    {
+      "title": "30万亿细胞迷宫里寻路，MIT博士7年跑出一家上市公司",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://36kr.com/p/3807162054106624?f=rss"
+    },
+    {
+      "title": "36氪首发 | 九号领投一家AI智能影像设备公司，在巨头夹缝中年增长近4倍",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://36kr.com/p/3807831328300549?f=rss"
+    },
+    {
+      "title": "独家对谈｜林琳：一位耶鲁MBA裸辞转行卖保险之后",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://36kr.com/p/3807535484886786?f=rss"
+    },
+    {
+      "title": "8点1氪丨林俊旸新公司估值20亿美金；贾跃亭宣布转战机器人业务；网红糖果被发现掺超高剂量伟哥",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://36kr.com/p/3808362853834502?f=rss"
+    },
     {
       "title": "2026 AI最佳场景渗透案例重磅揭晓",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
       "link": "https://36kr.com/p/3807623172235011?f=rss"
     },
     {
-      "title": "氪星晚报｜腾讯刘炽平：腾讯没有大裁员计划；中美在韩国举行经贸磋商；马斯克称星舰第12次试飞将于下周进行",
+      "title": "小米 SU7 Ultra / YU7 汽车 HyperOS 1.16 开始全量推送，新增语音控车、超级小爱 AI 智控等功能",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://36kr.com/p/3807540422942214?f=rss"
+      "link": "https://www.ithome.com/0/950/293.htm"
     },
     {
-      "title": "林俊旸创业，新公司估值约20亿美金丨智能涌现独家",
+      "title": "苹果公布 Safari 26.5 安全清单，修复敏感信息泄露风险和浏览器崩溃问题",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://36kr.com/p/3807382930251523?f=rss"
+      "link": "https://www.ithome.com/0/950/285.htm"
     },
     {
-      "title": "6月上海，这场论坛聊透出海真问题",
+      "title": "瞄准年底首飞入轨及回收目标：箭元科技顺利完成元行者一号液体运载火箭全箭管路力学环境试验",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://36kr.com/p/3807234971131656?f=rss"
+      "link": "https://www.ithome.com/0/950/279.htm"
     },
     {
-      "title": "36氪专访 | 安克创新eufyMake负责人：众筹超4000万美金后，还在红海寻找缝隙",
+      "title": "阿卡西斯公布 USB4 v2 四盘位 M.2 全闪硬盘盒 TB504",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://36kr.com/p/3806507139390984?f=rss"
+      "link": "https://www.ithome.com/0/950/272.htm"
+    },
+    {
+      "title": "蓝箭航天朱雀二号改进型遥五运载火箭发射成功",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://www.ithome.com/0/950/269.htm"
+    },
+    {
+      "title": "Waymo CEO回应L2升维L4：有可能，但只靠端到端还不够",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://www.qbitai.com/2026/05/417469.html"
+    },
+    {
+      "title": "倒计时一周，AIGC峰会嘉宾又上新了！一起来看第三波嘉宾",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://www.qbitai.com/2026/05/417447.html"
+    },
+    {
+      "title": "8岁小学生idea直接变应用，秒哒3.0刚刚把AI应用门槛打没了",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://www.qbitai.com/2026/05/417366.html"
+    },
+    {
+      "title": "挑战扩散自回归统治！字节提出视觉生成第三种路线，让模型像人类一样边画边改",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://www.qbitai.com/2026/05/416978.html"
+    },
+    {
+      "title": "林俊旸果然创业了！一个“Qwen负责人”头衔值135亿",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://www.qbitai.com/2026/05/416963.html"
     }
   ],
   "en": [
     {
-      "title": "Unitree will sell you a massive ‘transformable mecha’ for $650,000",
+      "title": "Microsoft&#8217;s Edge Copilot update uses AI to pull information from across your tabs",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.theverge.com/tech/929487/unitree-gd01-giant-mech-suit-robot"
+      "link": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs"
     },
     {
-      "title": "Microsoft’s Xbox PC app hints at China expansion for Game Pass",
+      "title": "Trump administration defends right to ban content moderation experts from US",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.theverge.com/news/929454/microsoft-xbox-game-pass-china-expansion-rumors"
+      "link": "https://www.theverge.com/policy/930178/citr-rubio-visa-deportation-misinformation-research"
     },
     {
-      "title": "The Trump phone starts shipping this week, CEO claims",
+      "title": "YouTube is courting creators — and sponsors — with streaming shows",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.theverge.com/gadgets/929471/trump-mobile-t1-phone-shipping-this-week"
+      "link": "https://www.theverge.com/news/930092/youtube-creators-shows-sponsors-netflix-upfront"
     },
     {
-      "title": "The Apple Studio Display could have been so much more",
+      "title": "AMD&#8217;s best CPU tech for gamers is coming to workstations too",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.theverge.com/tech/929015/apple-studio-display-2026"
+      "link": "https://www.theverge.com/tech/930132/amd-ryzen-pro-9000-series-3d-v-cache"
     },
     {
-      "title": "Data centers are coming for rural America",
+      "title": "The crypto Clarity Act returns to the Senate this week. The banks are already trying to kill it.",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/928963/data-center-rural-america-jobs-jay-maine"
+      "link": "https://www.theverge.com/column/929752/the-crypto-clarity-act-returns-to-the-senate-this-week-the-banks-are-already-trying-to-kill-it"
     },
     {
-      "title": "Could this be the moment that drug manufacturing takes off in orbit?",
+      "title": "Solar drone with jumbo jet wingspan broke a flight record—then it crashed",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://arstechnica.com/space/2026/05/varda-signs-deal-with-major-us-pharma-firm-to-develop-drugs-in-space/"
+      "link": "https://arstechnica.com/gadgets/2026/05/solar-drone-with-jumbo-jet-wingspan-broke-a-flight-record-then-it-crashed/"
     },
     {
-      "title": "The newest AI boom pitch: Host a mini data center at your home",
+      "title": "FCC angers small carriers by helping AT&T and Starlink buy EchoStar spectrum",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/"
+      "link": "https://arstechnica.com/tech-policy/2026/05/fcc-angers-small-carriers-by-helping-att-and-starlink-buy-echostar-spectrum/"
     },
     {
-      "title": "FDA chief resigns after Trump admin forced approval of fruity e-cigs",
+      "title": "Protein in Homo erectus teeth suggests Denisovans gave us some of their DNA",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://arstechnica.com/health/2026/05/fda-chief-resigns-after-trump-admin-forced-approval-of-fruity-e-cigs/"
+      "link": "https://arstechnica.com/science/2026/05/protein-in-homo-erectus-teeth-suggests-denisovans-gave-us-some-of-their-dna/"
     },
     {
-      "title": "Twin brothers wipe 96 gov't databases minutes after being fired",
+      "title": "Foiled plot tried to sneak 49 lbs of cocaine into Australia via Xerox printers",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/"
+      "link": "https://arstechnica.com/tech-policy/2026/05/foiled-plot-tried-to-sneak-49-lbs-of-cocaine-into-australia-via-xerox-printers/"
     },
     {
-      "title": "“Will I be OK?” Teen died after ChatGPT pushed deadly mix of drugs, lawsuit says",
+      "title": "AI invades Princeton, where 30% of students cheat—but peers won't snitch",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://arstechnica.com/tech-policy/2026/05/will-i-be-ok-teen-died-after-chatgpt-pushed-deadly-mix-of-drugs-lawsuit-says/"
+      "link": "https://arstechnica.com/tech-policy/2026/05/ai-driven-cheating-widespread-even-at-elite-schools-like-princeton/"
+    },
+    {
+      "title": "AI chatbots are giving out people’s real phone numbers",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/"
     },
     {
       "title": "The Download: making drugs in orbit and NASA’s nuclear-powered spacecraft",
@@ -99,34 +154,29 @@
       "link": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/"
     },
     {
-      "title": "Three things in AI to watch, according to a Nobel-winning economist",
+      "title": "Notion just turned its workspace into a hub for AI agents",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/"
+      "link": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/"
     },
     {
-      "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
+      "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/"
+      "link": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/"
     },
     {
-      "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
+      "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/"
+      "link": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/"
     },
     {
-      "title": "Kevin Hartz’s A* just closed its third fund with $450M",
+      "title": "This is what some of the world’s largest banks of malware look like stacked as hard drives",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/"
+      "link": "https://techcrunch.com/2026/05/13/this-is-what-some-of-the-worlds-largest-banks-of-malware-look-like-stacked-as-hard-drives/"
     },
     {
-      "title": "Former Tesla exec and Heron Power CEO Drew Baglino has founded a heat pump startup",
+      "title": "Geothermal startup Fervo Energy pops 33% in IPO debut fueled by AI data center demand",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://techcrunch.com/2026/05/12/former-tesla-exec-and-heron-power-ceo-drew-baglino-has-founded-a-heat-pump-startup/"
-    },
-    {
-      "title": "Musk mulled handing OpenAI to his children, Altman testifies",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/"
+      "link": "https://techcrunch.com/2026/05/13/geothermal-startup-fervo-energy-pops-33-in-ipo-debut-fueled-by-ai-data-center-demand/"
     }
   ]
 }
