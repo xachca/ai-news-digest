@@ -1,30 +1,45 @@
 {
-  "updated_at": "2026年09月07日 23:42",
+  "updated_at": "2026年09月08日 13:33",
   "zh": [
     {
-      "title": "2026 荣耀全球开发者大会日程公布，MagicOS 11 定档 9 月 15 日晚",
+      "title": "美国比特币矿场累计漏水约 1135.6 万升，导致当地学校 / 企业等一度关闭",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/0/999/493.htm"
+      "link": "https://www.ithome.com/0/999/653.htm"
     },
     {
-      "title": "Steam 今年已为 Valve 带来 150 亿美元收入，《极限竞速：地平线 6》领跑新作",
+      "title": "华为余承东详解智界 RX 双目后视镜：摄像头、ISP 处理单元、算法三合一，强光暗光下画面表现更好",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/0/999/491.htm"
+      "link": "https://www.ithome.com/0/999/652.htm"
     },
     {
-      "title": "【视频】华为Mate XT2 三折叠首发开箱体验，全新展翼折叠屏，体验全方位提升",
+      "title": "安卓最强 2nm 芯片：高通第六代骁龙 8 超级至尊版实物图曝光",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/0/999/490.htm"
+      "link": "https://www.ithome.com/0/999/649.htm"
     },
     {
-      "title": "OpenAI GPT-6 Astra 模型自主通关 3D 解谜游戏《传送门》：耗时 24 小时，成本 571 美元",
+      "title": "尼康 ZR 全画幅相机年内发布 2.00 版本固件更新",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/0/999/488.htm"
+      "link": "https://www.ithome.com/0/999/648.htm"
     },
     {
-      "title": "玄戒 O3 8+256G 4799 → 4049 元：小米 13.3 英寸平板 9 Pro Max 首发赠 599 元触控笔",
+      "title": "小米推出米家扫拖机器人 6 Max 白色系列：水箱版国补价 4799 元起，薄嵌上下水 5099 元起",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/0/999/454.htm"
+      "link": "https://www.ithome.com/0/999/647.htm"
+    },
+    {
+      "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://www.qbitai.com/2026/09/485784.html"
+    },
+    {
+      "title": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://www.qbitai.com/2026/09/485630.html"
+    },
+    {
+      "title": "王云鹤创业后交出首个模型",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://www.qbitai.com/2026/09/485555.html"
     },
     {
       "title": "3秒变身！会合体的机器人，卖到全球50国",
@@ -35,24 +50,24 @@
       "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
       "link": "https://www.qbitai.com/2026/09/485431.html"
-    },
-    {
-      "title": "DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.qbitai.com/2026/09/485154.html"
-    },
-    {
-      "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.qbitai.com/2026/09/485108.html"
-    },
-    {
-      "title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.qbitai.com/2026/09/485064.html"
     }
   ],
   "en": [
+    {
+      "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3"
+    },
+    {
+      "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price"
+    },
+    {
+      "title": "Six years later, Sony revisits its legendary XM4 headphones",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones"
+    },
     {
       "title": "EcoFlow makes the miniature power station even smaller",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
@@ -64,24 +79,9 @@
       "link": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone"
     },
     {
-      "title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8"
-    },
-    {
-      "title": "Huawei copies Samsung’s privacy display in its latest trifold",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display"
-    },
-    {
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft"
-    },
-    {
       "title": "The complex corporate web behind a $3.2 billion AI data center",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/"
+      "link": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/"
     },
     {
       "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
@@ -129,29 +129,29 @@
       "link": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/"
     },
     {
+      "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/"
+    },
+    {
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+    },
+    {
+      "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/"
+    },
+    {
+      "title": "What we expect from the upcoming Apple launch",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/"
+    },
+    {
       "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
       "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/"
-    },
-    {
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/"
-    },
-    {
-      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/"
-    },
-    {
-      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/"
-    },
-    {
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
     }
   ]
 }
