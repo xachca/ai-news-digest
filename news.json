@@ -1,30 +1,35 @@
 {
-  "updated_at": "2026年10月05日 14:30",
+  "updated_at": "2026年10月06日 03:11",
   "zh": [
     {
-      "title": "上汽荣威家越 07 预售两周订单超三万台，13.78 万元起",
+      "title": "苹果 watchOS 27.2 开发者预览版 Beta 3 发布",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/1/009/809.htm"
+      "link": "https://www.ithome.com/1/009/908.htm"
     },
     {
-      "title": "台达将基于英伟达 Hyperion 平台开发下一代自动驾驶技术",
+      "title": "苹果 visionOS 27.2 开发者预览版 Beta 3 发布",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/1/009/808.htm"
+      "link": "https://www.ithome.com/1/009/907.htm"
     },
     {
-      "title": "华为与高通宣布达成广泛专利许可协议，覆盖 5G、AI、计算及网络技术领域",
+      "title": "苹果 macOS 27.2 开发者预览版 Beta 3 发布",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/1/009/806.htm"
+      "link": "https://www.ithome.com/1/009/906.htm"
     },
     {
-      "title": "施耐德电气宣布以 226 亿美元收购 PTC，拓展人工智能业务",
+      "title": "苹果 iOS/iPadOS 27.2 开发者预览版 Beta 3 发布",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/1/009/805.htm"
+      "link": "https://www.ithome.com/1/009/905.htm"
     },
     {
-      "title": "Rapidus 宣布成立协作开放快速生态系统，率先构建设计解决方案联盟",
+      "title": "纳指盘中再创历史新高：SpaceX 涨逾 5%，英伟达涨超 1% 再度逼近历史新高",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/1/009/804.htm"
+      "link": "https://www.ithome.com/1/009/904.htm"
+    },
+    {
+      "title": "刚刚，诺贝尔奖颁给光遗传学！",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://www.qbitai.com/2026/10/501720.html"
     },
     {
       "title": "刚刚，Hinton发了首篇RSI论文",
@@ -45,38 +50,53 @@
       "title": "最火AI岗位FDE：月薪5万，都干这些…",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
       "link": "https://www.qbitai.com/2026/10/501506.html"
-    },
-    {
-      "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.qbitai.com/2026/10/501451.html"
     }
   ],
   "en": [
     {
-      "title": "The new Fitbit Edge leaks",
+      "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks"
+      "link": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage"
     },
     {
-      "title": "Prick’s theatrical industrial punk is perfect for spooky season",
+      "title": "Hyundai CEO says only a ‘level playing field’ can minimize damage from China",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review"
+      "link": "https://www.theverge.com/transportation/1004785/hyundai-ceo-china-ev-us-market-share"
     },
     {
-      "title": "The best early October Prime Day deals happening now",
+      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october"
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act"
     },
     {
-      "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+      "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true"
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr"
     },
     {
-      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+      "title": "Sam Altman says ‘some bad things&#8217; will happen, but AI is totally worth it",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft"
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff"
+    },
+    {
+      "title": "F1 in Bahrain... in Malaysia: The race needed a software update to start",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://arstechnica.com/cars/2026/10/f1-in-bahrain-in-malaysia-the-race-needed-a-software-update-to-start/"
+    },
+    {
+      "title": "Mass quarantine issued in Russia after unexplained death of plague researcher",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://arstechnica.com/health/2026/10/researchers-death-from-undisclosed-illness-sparks-mass-quarantine-in-russia/"
+    },
+    {
+      "title": "AI glasses face their first major government crackdown",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/"
+    },
+    {
+      "title": "Explaining Hall-effect, TMR, and other new types of \"mechanical\" switches",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://arstechnica.com/gadgets/2026/10/the-hows-and-whys-of-non-mechanical-mechanical-keyboard-switches/"
     },
     {
       "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
@@ -84,24 +104,24 @@
       "link": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/"
     },
     {
-      "title": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife",
+      "title": "Connecting AI agents to enterprise knowledge",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/"
+      "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/"
     },
     {
-      "title": "All hail electrification. But let’s talk about the hard part.",
+      "title": "Bringing predictive analytics to the agentic AI era",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/"
+      "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/"
     },
     {
-      "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
+      "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/"
+      "link": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/"
     },
     {
-      "title": "The dawn of the age of the exoskeleton",
+      "title": "People really hate AI, so why can’t they get enough?",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/"
+      "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/"
     },
     {
       "title": "EmTech Future 2026: When AI Meets Everything",
@@ -109,49 +129,29 @@
       "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/"
     },
     {
-      "title": "Redefining enterprise intelligence with autonomous AI",
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/"
+      "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/"
     },
     {
-      "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
+      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/"
+      "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/"
     },
     {
-      "title": "A new contest pits competitors against each other in a race to biological youth",
+      "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/"
+      "link": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/"
     },
     {
-      "title": "Don’t be fooled—LLMs don’t reason",
+      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/"
+      "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/"
     },
     {
-      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "title": "5 startups that caught VCs’ attention at the latest PearX demo day",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/"
-    },
-    {
-      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/"
-    },
-    {
-      "title": "TechCrunch Mobility: Reining in robotaxis",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/"
-    },
-    {
-      "title": "Trump unveils his new Super Intelligence Force",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/"
-    },
-    {
-      "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/"
+      "link": "https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/"
     }
   ]
 }
