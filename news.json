@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026年10月20日 13:38",
+  "updated_at": "2026年10月20日 22:53",
   "zh": [
     {
-      "title": "消息称某厂阔直板手机目前工程机搭载天玑 9600M、影像双 2 亿 HPE + HP5，预计为 OPPO",
+      "title": "微软为 Windows Server 2025 引入快速计算机恢复功能，可通过 Windows Update 查找修复方案",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/1/015/261.htm"
+      "link": "https://www.ithome.com/1/015/600.htm"
     },
     {
-      "title": "2027 款领克 03 车型官宣，口号“宽不可挡”",
+      "title": "苹果：今年晚些时候将在美国组装 Mac mini",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/1/015/260.htm"
+      "link": "https://www.ithome.com/1/015/599.htm"
     },
     {
-      "title": "iQOO Neo12 手机官宣搭载全新冰穹主动散热风扇、Neo 史上最大面积 VC",
+      "title": "智能电视广告引不满，部分用户借助 Claude 等 AI 智能体清理广告和预装应用",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/1/015/259.htm"
+      "link": "https://www.ithome.com/1/015/598.htm"
     },
     {
-      "title": "小米米家口袋照片打印机 Pro 礼盒装开售：专属浅紫配色，799 元",
+      "title": "小米智能门锁 5 Max 系列官宣全新升级服务标准，整机保修从 3 年提升至 5 年等",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/1/015/258.htm"
+      "link": "https://www.ithome.com/1/015/597.htm"
     },
     {
-      "title": "诺奖得主安德烈 · 海姆：单层石墨烯性能卓越，相关研究 15 年内一定能走入百姓生活",
+      "title": "首发价 2199 元 → 1699 元：优派 24 英寸 4K 160Hz 显示器 VX24G26J 新低",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/1/015/256.htm"
+      "link": "https://www.ithome.com/1/015/596.htm"
     },
     {
       "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
@@ -54,29 +54,44 @@
   ],
   "en": [
     {
-      "title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
+      "title": "Over $963,000 worth of graded Pokémon and sports cards were stolen from Fedex",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight"
+      "link": "https://www.theverge.com/entertainment/1014276/professional-sports-authenticator-psa-stolen-graded-sports-pokemon-cards-fedex"
     },
     {
-      "title": "Elon Musk’s proposed SpaceX stock giveaway would go into &#8216;Trump Accounts&#8217;",
+      "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.theverge.com/tech/1014115/elon-musk-spacex-trump-account"
+      "link": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed"
     },
     {
-      "title": "The fossil fuel comeback is here",
+      "title": "TikTok employees said they knew about child safety issues, but execs failed to act",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report"
+      "link": "https://www.theverge.com/tech/1014250/tiktok-employees-internal-child-safety-warnings"
     },
     {
-      "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+      "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai"
+      "link": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair"
     },
     {
-      "title": "I tried a $99 plug that promises to track your car and send help when needed — without selling your data",
+      "title": "Wii Sports is back on the Switch 2, and it rules",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date"
+      "link": "https://www.theverge.com/entertainment/1013753/nintendo-switch-sports-resort-review-switch-2"
+    },
+    {
+      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/"
+    },
+    {
+      "title": "Visiting Slate’s first showroom as its $25,000 electric truck nears production",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/"
+    },
+    {
+      "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/"
     },
     {
       "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
@@ -89,69 +104,54 @@
       "link": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/"
     },
     {
-      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+      "title": "The Download: the claim shaking up AI and the internet’s agent problem",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/"
+      "link": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/"
     },
     {
-      "title": "Batteries help reduce emissions, but how do we reduce their emissions?",
+      "title": "AI adoption by industry shows what other sectors can learn",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://arstechnica.com/science/2026/10/batteries-have-a-small-carbon-footprint-we-can-make-it-smaller/"
+      "link": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/"
     },
     {
-      "title": "PSA: Patch your Plex media server before someone hacks it",
+      "title": "How to study a swiftly melting climate disaster",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/"
+      "link": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/"
     },
     {
-      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "title": "A visit to Samsung’s massive new semiconductor hub",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/"
+      "link": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/"
     },
     {
-      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "title": "These startups hope “blended” food will cut our appetite for red meat",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/"
+      "link": "https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/"
     },
     {
-      "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
+      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/"
+      "link": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/"
     },
     {
-      "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
+      "title": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/"
+      "link": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/"
     },
     {
-      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/"
+      "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/"
     },
     {
-      "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/"
+      "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/"
     },
     {
-      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "title": "Inspired Capital closes $450M fourth fund as New York pushes back on Silicon Valley’s gravitational pull",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/"
-    },
-    {
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
-    },
-    {
-      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/"
-    },
-    {
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
+      "link": "https://techcrunch.com/2026/10/20/inspired-capital-closes-450m-fourth-fund-as-new-york-pushes-back-on-silicon-valleys-gravitational-pull/"
     }
   ]
 }
