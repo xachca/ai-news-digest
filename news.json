@@ -1,82 +1,97 @@
 {
-  "updated_at": "2026年11月04日 15:12",
+  "updated_at": "2026年11月05日 01:54",
   "zh": [
     {
-      "title": "迈从 V9 Turbo+ 耳机新增“橙光”配色：标配 RGB 磁吸无线充电底座，11 月 6 日首销",
+      "title": "华为小艺 Work 率先上线 openPangu-2.1-Pro 模型，主打“鸿蒙任务增强”",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/1/022/167.htm"
+      "link": "https://www.ithome.com/1/022/472.htm"
     },
     {
-      "title": "周活全球第一：OpenAI 称印度反超美国，成 ChatGPT 最大消费者市场",
+      "title": "微信鸿蒙版 App 推 8.0.23.34 正式版更新，更多用户灰度合并发图功能",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/1/022/166.htm"
+      "link": "https://www.ithome.com/1/022/470.htm"
     },
     {
-      "title": "荷兰 RDW 批准特斯拉欧洲 FSD 调整：更名 TAD，超速偏移上限降至 10%",
+      "title": "华硕正式带来 ROG XG Station 3 显卡坞：提供 GC-HPWR 接口，支持雷电 5",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/1/022/165.htm"
+      "link": "https://www.ithome.com/1/022/469.htm"
     },
     {
-      "title": "世嘉通报公司服务器遭黑客非法访问：日服街机游戏认证服务 Aime、SEGA ID 注册功能受影响",
+      "title": "连续 2 小时 40 分钟纯代码生成 66 秒动画，Anthropic 新旗舰 Fable 5.5 实测曝光",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/1/022/164.htm"
+      "link": "https://www.ithome.com/1/022/468.htm"
     },
     {
-      "title": "AI 时代下 Steam 游戏提交量显著增加，Valve 近期审核最长需 12 个工作日",
+      "title": "法国血液中心确认受 11 月 2 日黑客升温攻击波及，幸无实际影响",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.ithome.com/1/022/163.htm"
+      "link": "https://www.ithome.com/1/022/461.htm"
+    },
+    {
+      "title": "百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://www.qbitai.com/2026/11/507647.html"
+    },
+    {
+      "title": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://www.qbitai.com/2026/11/507586.html"
+    },
+    {
+      "title": "超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://www.qbitai.com/2026/11/507574.html"
+    },
+    {
+      "title": "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://www.qbitai.com/2026/11/507567.html"
     },
     {
       "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
       "link": "https://www.qbitai.com/2026/11/507533.html"
-    },
-    {
-      "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.qbitai.com/2026/11/507507.html"
-    },
-    {
-      "title": "智己LS8纯电版背后：8年研发底盘，两大厂联合开发电池",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.qbitai.com/2026/11/507473.html"
-    },
-    {
-      "title": "模型谁都买得到，拉开差距的是AI生产力系统",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.qbitai.com/2026/11/507448.html"
-    },
-    {
-      "title": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.qbitai.com/2026/11/507419.html"
     }
   ],
   "en": [
     {
-      "title": "AMD rides data center riches to &#8216;largest and most profitable&#8217; quarter in history",
+      "title": "God of War Laufey delayed until May",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc"
+      "link": "https://www.theverge.com/games/1026448/sony-playstation-god-of-war-laufey-delay"
     },
     {
-      "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
+      "title": "Nintendo is losing a Switch cartridge supplier",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news"
+      "link": "https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center"
     },
     {
-      "title": "The biggest modding site in PC gaming is taking a stance on AI",
+      "title": "Anker’s new window-mounted camera monitors the outside of your home from within it",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures"
+      "link": "https://www.theverge.com/tech/1026360/anker-eufy-window-camera-e10-indoors-security-ai-color-night-vision"
     },
     {
-      "title": "Please stop asking me when the AI bubble will pop",
+      "title": "Rian Johnson explains why he had to build his own iPhone camera app",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds"
+      "link": "https://www.theverge.com/tech/1025659/rian-johnson-chromagraph-camera-interview"
     },
     {
-      "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
+      "title": "Data centers lost the midterms",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.theverge.com/tech/1025971/canva-changes-layoffs"
+      "link": "https://www.theverge.com/policy/1026365/data-centers-midterms-results"
+    },
+    {
+      "title": "Binance says hackers who stole billions in crypto spent months planning heist",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/"
+    },
+    {
+      "title": "What I learned driving the Slate electric truck prototype",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://arstechnica.com/cars/2026/11/what-i-learned-driving-the-slate-electric-truck-prototype/"
+    },
+    {
+      "title": "The DEA banned a drug some opioid users called a miracle",
+      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
+      "link": "https://arstechnica.com/health/2026/11/the-dea-banned-a-drug-some-opioid-users-called-a-miracle/"
     },
     {
       "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
@@ -89,19 +104,19 @@
       "link": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/"
     },
     {
-      "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+      "title": "What’s next for US energy policy after the midterm elections?",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/"
+      "link": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/"
     },
     {
-      "title": "Buttons are back and storage is king when it comes to car interiors",
+      "title": "The Download: blended meat, restored sight, and the agentic web",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/"
+      "link": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/"
     },
     {
-      "title": "Google will let schools skip AI tools, but they have to give up search, too",
+      "title": "Securing the agentic enterprise with data lineage",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/"
+      "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
     },
     {
       "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
@@ -114,44 +129,29 @@
       "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
     },
     {
-      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "title": "Sequoia hits rewind, undoing 20 years of expansion",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/"
+      "link": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/"
     },
     {
-      "title": "Raising the quality of insights in agentic analytics",
+      "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/"
+      "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/"
     },
     {
-      "title": "Stop counting tokens, start counting what ships",
+      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
+      "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/"
     },
     {
-      "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
+      "title": "Titan OS raises $46 million to expand its smart TV OS internationally",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/"
+      "link": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/"
     },
     {
-      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
       "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
-    },
-    {
-      "title": "Data centers are turning to old jet engines as the wait for power grows",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/"
-    },
-    {
-      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/"
-    },
-    {
-      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-      "summary": "AI助手可生成100字内的简体中文/英文科技新闻摘要，支持中英文输出。",
-      "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/"
+      "link": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/"
     }
   ]
 }
